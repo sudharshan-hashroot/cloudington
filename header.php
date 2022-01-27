@@ -51,7 +51,7 @@
             <nav class="js-mega-menu navbar navbar-expand-lg">
                 <!-- Logo -->
                 <a class="navbar-brand" href="/" aria-label="Front">
-                    <img src="./assets/update_logos/mockup-no bg.png" alt="Logo" style="padding-bottom: 0.5rem;">
+                    <img src="./assets/update_logos/Logo-SVG.svg" alt="Logo" style="padding-bottom: 0.5rem;">
                 </a>
                 <!-- End Logo -->
 

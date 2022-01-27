@@ -1,0 +1,135 @@
+/* .currencydd:hover .currency-menu {
+    display: block;
+} */
+
+.unlimited {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.providerssm {
+    width: 1.3rem!important;
+    margin-right: 1rem;
+}
+
+.flagsm {
+    width: 2rem!important;
+    height: 2rem!important;
+}
+
+.btn-gradient-primary {
+    color: #fff!important;
+    background: linear-gradient(215deg, #2de0bd, #2393e8 50%)!important;
+    border: none!important;
+}
+
+.bg-gradient-primary {
+    background: linear-gradient(45deg, #2899f0 50%, #49f1d0)!important;
+}
+
+.banner-height {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.miniflex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4rem;
+    filter: grayscale(1);
+    padding: .5rem;
+}
+
+.miniflex img {
+    height: 3rem;
+}
+
+.bg-red {
+    background-color: #F3533A!important;
+}
+
+.bg-orange {
+    background-color: #FA9F42!important;
+}
+
+.bg-green {
+    background-color: #8AD879!important;
+}
+
+.bg-blue {
+    background-color: #5ACFC9!important;
+}
+
+
+/* .responsiveheader {
+    left: 30%!important;
+} */
+
+@media (max-width:1990px) {
+    .res-image {
+        height: 54rem;
+        margin-left: 0rem;
+    }
+    .imgcontainer {
+        align-items: flex-end;
+        display: flex;
+        justify-content: end;
+    }
+}
+
+@media (max-width: 1600px) {
+    .res-image {
+        height: 47rem;
+        margin-left: 6rem;
+    }
+    .imgcontainer {
+        align-items: flex-end;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 1400px) {
+    .res-image {
+        height: 40rem;
+        margin-left: 4rem;
+    }
+    .imgcontainer {
+        align-items: flex-end;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (max-width:996px) {
+    .unlimited {
+        justify-content: center;
+        align-items: flex-start;
+        flex-direction: column;
+    }
+    .responsiveheader {
+        left: 50%!important;
+        position: relative!important;
+    }
+    .bg-img-hero-center {
+        background-position: left!important
+    }
+    .res-image {
+        width: 105%;
+        height: 100%;
+        margin-left: 0;
+    }
+    .imgcontainer {
+        display: block;
+        padding: 0!important;
+        margin: 0!important;
+    }
+    .banner-height {
+        height: auto!important;
+    }
+}

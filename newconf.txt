@@ -1,0 +1,58 @@
+
+gzip on;
+gzip_vary on;
+gzip_types application/javascript application/rss+xml application/vnd.ms-fontobject application/x-font application/x-font-opentype application/x-font-otf application/x-font-truetype application/x-font-ttf application/x-javascript application/xhtml+xml application/xml font/opentype font/otf font/ttf image/svg+xml image/x-icon text/css text/html text/javascript text/plain text/xml;
+
+map $sent_http_content_type $expires {
+    image/jpeg +1y;
+    image/gif +1y;
+    image/png +1y;
+    image/webp +1y;
+    image/svg+xml +1y;
+    image/x-icon +1y;
+    video/webm +1y;
+    video/mp4 +1y;
+    video/mpeg +1y;
+    font/ttf +1y;
+    font/otf +1y;
+    font/woff +1y;
+    font/woff2 +1y;
+    font/woft2 +1y;
+    application/font-woff +1y;
+    text/css +1M;
+    text/javascript +1M;
+    application/javascript +1M;
+    application/pdf +1M;
+    image/vnd.microsoft.icon +1y;
+}
+server {
+    server_name example.com;
+    expires $expires;
+    # !!! UNABLE TO REWRITE: 
+    # RewriteCond $host ^cloudington.com [NC]
+    # RewriteRule ^(.*)$ http://www.cloudington.com/$1 [L,R=301]
+    rewrite ^/?/$ /index.php;
+    rewrite ^/?azure-cloud-hosting$ /azure.php;
+    rewrite ^/?google-cloud-hosting$ /gcp.php;
+    rewrite ^/?aws-cloud-hosting$ /aws.php;
+    rewrite ^/?managed-linode-hosting$ /linode.php;
+    rewrite ^/?vps-hosting$ /vpshosting.php;
+    rewrite ^/?shared-hosting$ /sharedhosting.php;
+    rewrite ^/?wordpress-hosting$ /wordpress.php;
+    rewrite ^/?digital-ocean-cloud-hosting$ /digitalocean.php;
+    rewrite ^/?video-stream-hosting$ /videostreaming.php;
+    rewrite ^/?joomla-cloud-hosting$ /joomla.php;
+    rewrite ^/?backup-cloud-hosting$ /backupcloud.php;
+    rewrite ^/?drupal-cloud-hosting$ /drupal.php;
+    rewrite ^/?private-cloud-hosting$ /privatecloud.php;
+    rewrite ^/?magento-cloud-hosting$ /magento.php;
+    rewrite ^/?wordpress-cloud-hosting$ /managedwordpress.php;
+    rewrite ^/?business-email$ /businessemail.php;
+    rewrite ^/?managed-cloud-startups$ /saas.php;
+    rewrite ^/?radio-hosting$ /radio.php;
+    rewrite ^/?gaming-server-hosting$ /gaming.php;
+    rewrite ^/?hosted-ox-app-suite$ /oxsuite.php;
+    rewrite ^/?cpanel-cloud-hosting$ /cpanel.php;
+    rewrite ^/?moodle-hosting$ /moodle.php;
+    rewrite ^/?woocommerce-hosting$ /woocommerce.php;
+}

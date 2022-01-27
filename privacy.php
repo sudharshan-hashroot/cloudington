@@ -217,7 +217,7 @@
                             <h3 class="mb-3">
                                 ACCESS
                             </h3>
-                            <p>If you are a registered user, you may access certain information associated with your Account by logging into our Services or emailing <a href="mailto:contact@cloudington.com">contact@cloudington.com</a>. If you terminate your
+                            <p>If you are a registered user, you may access certain information associated with your Account by logging into our Services or emailing <a href="mailto:contact@cloudyea.com">contact@cloudyea.com</a>. If you terminate your
                                 Account, any public activity on your account prior to deletion may remain stored on our servers and may remain accessible to the public. To protect your privacy and security, we may also take reasonable steps to verify
                                 your identity before updating or removing your information.
                             </p>
@@ -229,10 +229,10 @@
                             <p>If you are a resident of the EEA, you have the following data protection rights:
                             </p>
                             <ul>
-                                <li>If you wish to access, correct, update, or request deletion of your personal information, you can do so at any time by mailing to <a href="mailto:contact@cloudington.com">contact@cloudington.com</a>
+                                <li>If you wish to access, correct, update, or request deletion of your personal information, you can do so at any time by mailing to <a href="mailto:contact@cloudyea.com">contact@cloudyea.com</a>
                                 </li>
                                 <li>In addition, you can object to the processing of your personal information, ask us to restrict the processing of your personal information, or request portability of your personal information. Again, you can exercise these
-                                    rights by emailing to <a href="mailto:contact@cloudington.com">contact@cloudington.com</a>
+                                    rights by emailing to <a href="mailto:contact@cloudyea.com">contact@cloudyea.com</a>
                                 </li>
                                 <li>Similarly, if we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted
                                     prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
@@ -253,7 +253,7 @@
                             <h3 class="mb-3">CHILDREN’S PRIVACY
                             </h3>
                             <p>Cloudington does not knowingly collect information from children under the age of 13, and children under 13 are prohibited from using our Services. If you learn that a child has provided us with personal information in violation
-                                of this Privacy Policy, you can alert us at <a href="mailto:contact@cloudington.com">contact@cloudington.com</a>
+                                of this Privacy Policy, you can alert us at <a href="mailto:contact@cloudyea.com">contact@cloudyea.com</a>
                             </p>
                         </div>
                         <div class="mb-7">
@@ -275,7 +275,7 @@
                         </div>
                         <div class="mb-7">
                             <h3 class="mb-3">Contact Us </h3>
-                            <p>If you have any questions or concerns about this Privacy Policy, please feel free to email us at <a href="mailto:contact@cloudington.com">contact@cloudington.com</a>
+                            <p>If you have any questions or concerns about this Privacy Policy, please feel free to email us at <a href="mailto:contact@cloudyea.com">contact@cloudyea.com</a>
                             </p>
                             <p>The data controller of your personal information is Cloudington Private Limited.
                             </p>

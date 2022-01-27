@@ -11,7 +11,7 @@
     <meta name="description" content="Get fully managed cloud hosting services at an affordable price from Cloudington. Highly secure cloud web hosting, WordPress hosting backed by 24/7 dedicated support.">
     <meta name="keywords" content="Managed cloud hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="canonical" href="https://www.cloudington.com" />
+    <link rel="canonical" href="https://www.cloudyea.com" />
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="./assets/svg/logos/favicon-01.svg">
@@ -187,7 +187,7 @@ color: aliceblue;
 
                 <div class="w-lg-90 mx-lg-auto space-2 space-top-lg-2 text-center position-relative">
                     <div class="w-80 mb-5 mx-auto">
-                        <small class="btn btn-xs btn-soft-primary btn-rounded text-uppercase font-weight-bold mb-2">how cloudington works?</small>
+                        <small class="btn btn-xs btn-soft-primary btn-rounded text-uppercase font-weight-bold mb-2">how cloudyea works?</small>
                         <h2>
                         Launch your server in 4 steps
                         </h2>

@@ -43,7 +43,7 @@
                 <ul class="nav nav-sm nav-x-0 flex-column">
                     <li class="nav-item"><a class="nav-link" href="aboutus.php">About Us</a></li>
                     <!-- <li class="nav-item"><a class="nav-link" href="faq.php">FAQ</a></li> -->
-                    <li class="nav-item"><a class="nav-link" href="https://blog.cloudington.com/">Blog</a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://blog.cloudyea.com/">Blog</a></li>
                     <li class="nav-item"><a class="nav-link" href="contactus.php">Contact Us</a></li>
                 </ul>
                 <!-- End Nav Link -->
@@ -55,7 +55,7 @@
                 <!-- Nav Link -->
                 <ul class="nav nav-sm nav-x-0 flex-column">
                     <li class="nav-item">
-                        <a class="nav-link js-hs-unfold-invoker" href="https://my.cloudington.com/register.php">
+                        <a class="nav-link js-hs-unfold-invoker" href="https://my.cloudyea.com/register.php">
 
                             <span class="media align-items-center">
                                 
@@ -65,7 +65,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link js-hs-unfold-invoker" href="https://my.cloudington.com/index.php?rp=/login">
+                        <a class="nav-link js-hs-unfold-invoker" href="https://my.cloudyea.com/index.php?rp=/login">
 
                             <span class="media align-items-center">
                                 <i class="fas fa-key mr-2"></i>
@@ -135,7 +135,7 @@
 
                 <ul class="nav nav-sm nav-x-0 flex-column">
                     <li class="nav-item"><a class="nav-link" href="#">SSL Certification</a></li>
-                    <li class="nav-item"><a class="nav-link" href="https://my.cloudington.com/cart.php?a=add&domain=register">Domain Registration</a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://my.cloudyea.com/cart.php?a=add&domain=register">Domain Registration</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">cPanel Licensing</a></li>
 
 
@@ -150,17 +150,17 @@
                 <!-- Social Networks -->
                 <ul class="list-inline mb-0">
                     <li class="list-inline-item">
-                        <a class="btn btn-xs btn-icon btn-soft-secondary" href="https://www.facebook.com/cloudington" target="_blank">
+                        <a class="btn btn-xs btn-icon btn-soft-secondary" href="https://www.facebook.com/cloudyea" target="_blank">
                             <i class="fab fa-facebook-f"></i>
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a class="btn btn-xs btn-icon btn-soft-secondary" href="https://instagram.com/_cloudington" target="_blank">
+                        <a class="btn btn-xs btn-icon btn-soft-secondary" href="https://instagram.com/_cloudyea" target="_blank">
                             <i class="fab fa-instagram"></i>
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a class="btn btn-xs btn-icon btn-soft-secondary" href="https://www.linkedin.com/company/cloudington/" target="_blank">
+                        <a class="btn btn-xs btn-icon btn-soft-secondary" href="https://www.linkedin.com/company/cloudyea/" target="_blank">
                             <i class="fab fa-linkedin-in"></i>
                         </a>
                     </li>

@@ -21,7 +21,7 @@
                         <div class="text-center mb-5">
                             <h2>Sign in</h2>
                             <p>Don't have an account yet?
-                                <a class="js-animation-link" href="https://my.cloudington.com/register.php" data-hs-show-animation-options='{
+                                <a class="js-animation-link" href="https://my.cloudyea.com/register.php" data-hs-show-animation-options='{
                          "targetSelector": "#signupModalForm",
                          "groupName": "idForm"
                        }'>Sign up here</a>
@@ -35,7 +35,7 @@
                   </span>
                         </a>
 
-                        <a class="js-animation-link btn btn-block btn-primary mb-2" href="https://my.cloudington.com/index.php?rp=/login" data-hs-show-animation-options='{
+                        <a class="js-animation-link btn btn-block btn-primary mb-2" href="https://my.cloudyea.com/index.php?rp=/login" data-hs-show-animation-options='{
                      "targetSelector": "#signinWithEmailModalForm",
                      "groupName": "idForm"
                    }'>Sign in with Email</a>

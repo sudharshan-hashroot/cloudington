@@ -343,8 +343,8 @@
                             <!-- End Text -->
                             <div>
                                 <p>
-                                    You can know more about our updated privacy policy at <a href="https://cloudington.com/privacy.php">https://cloudington.com/privacy.php</a> . If you do not accept or understand any part or parts of our ‘Terms of Service
-                                    and Policies’, please contact us immediately prior to signing up with our service. If you do have any questions about our privacy policy write to us at <a href="mailto:contact@cloudington.com">contact@cloudington.com</a>
+                                    You can know more about our updated privacy policy at <a href="https://cloudyea.com/privacy.php">https://cloudyea.com/privacy.php</a> . If you do not accept or understand any part or parts of our ‘Terms of Service
+                                    and Policies’, please contact us immediately prior to signing up with our service. If you do have any questions about our privacy policy write to us at <a href="mailto:contact@cloudyea.com">contact@cloudyea.com</a>
 
                                 </p>
                                 <p>

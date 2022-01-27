@@ -135,7 +135,7 @@
                                         <!-- End Body -->
 
                                         <div class="card-footer border-0">
-                                            <a type="button" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $w1_id;?>" class="btn btn-soft-primary btn-block transition-3d-hover">Order Now</a>
+                                            <a type="button" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $w1_id;?>" class="btn btn-soft-primary btn-block transition-3d-hover">Order Now</a>
                                         </div>
                                     </div>
                                     <!-- End Pricing -->
@@ -177,7 +177,7 @@
                                         <!-- End Body -->
 
                                         <div class="card-footer border-0 bg-primary text-white">
-                                            <a type="button" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $w2_id;?>" class="btn btn-light btn-block transition-3d-hover">Order Now</a>
+                                            <a type="button" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $w2_id;?>" class="btn btn-light btn-block transition-3d-hover">Order Now</a>
                                         </div>
                                     </div>
                                     <!-- End Pricing -->
@@ -218,7 +218,7 @@
                                         <!-- End Body -->
 
                                         <div class="card-footer border-0">
-                                            <a type="button" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $w3_id;?>" class="btn btn-soft-primary btn-block transition-3d-hover">Order Now</a>
+                                            <a type="button" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $w3_id;?>" class="btn btn-soft-primary btn-block transition-3d-hover">Order Now</a>
                                         </div>
                                     </div>
                                     <!-- End Pricing -->

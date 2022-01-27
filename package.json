@@ -3,7 +3,7 @@
     "grunt-contrib-cssmin": "^4.0.0",
     "grunt-uncss": "^0.10.1"
   },
-  "name": "cloudington",
+  "name": "cloudyea",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",

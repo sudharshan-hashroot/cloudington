@@ -569,7 +569,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=17">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=17">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -621,7 +621,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=18">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=18">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -673,7 +673,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=19">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=19">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -725,7 +725,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=20">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=20">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -778,7 +778,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=21">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=21">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -830,7 +830,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=22">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=22">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -880,7 +880,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=24">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=24">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -930,7 +930,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=25">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=25">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -980,7 +980,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=26">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=26">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -1030,7 +1030,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=27">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=27">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -1080,7 +1080,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=28">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=28">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -1178,7 +1178,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $d1_product_id;?>">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $d1_product_id;?>">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -1233,7 +1233,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $d2_product_id;?>">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $d2_product_id;?>">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -1288,7 +1288,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $d3_product_id;?>">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $d3_product_id;?>">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -1343,7 +1343,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $d4_product_id;?>">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $d4_product_id;?>">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -1398,7 +1398,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $d5_product_id;?>">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $d5_product_id;?>">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -1453,7 +1453,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $d6_product_id;?>">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $d6_product_id;?>">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -1508,7 +1508,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $d7_product_id;?>">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $d7_product_id;?>">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -1563,7 +1563,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $d8_product_id;?>">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $d8_product_id;?>">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -1618,7 +1618,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $d9_product_id;?>">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $d9_product_id;?>">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -1673,7 +1673,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $d10_product_id;?>">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $d10_product_id;?>">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -1728,7 +1728,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $d11_product_id;?>">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $d11_product_id;?>">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -1783,7 +1783,7 @@
                                 </td>
 
                                 <td>
-                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $d12_product_id;?>">
+                                    <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $d12_product_id;?>">
                                         <span>Order Now</span>
                                     </a>
                                 </td>
@@ -1908,7 +1908,7 @@
                                         </td>
 
                                         <td>
-                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $ls1_id;?>">
+                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $ls1_id;?>">
                                                 <span>Order Now</span>
                                             </a>
                                         </td>
@@ -1964,7 +1964,7 @@
                                         </td>
 
                                         <td>
-                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $ls2_id;?>">
+                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $ls2_id;?>">
                                                 <span>Order Now</span>
                                             </a>
                                         </td>
@@ -2020,7 +2020,7 @@
                                         </td>
 
                                         <td>
-                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $ls3_id;?>">
+                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $ls3_id;?>">
                                                 <span>Order Now</span>
                                             </a>
                                         </td>
@@ -2076,7 +2076,7 @@
                                         </td>
 
                                         <td>
-                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $ls4_id;?>">
+                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $ls4_id;?>">
                                                 <span>Order Now</span>
                                             </a>
                                         </td>
@@ -2132,7 +2132,7 @@
                                         </td>
 
                                         <td>
-                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $ls5_id;?>">
+                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $ls5_id;?>">
                                                 <span>Order Now</span>
                                             </a>
                                         </td>
@@ -2188,7 +2188,7 @@
                                         </td>
 
                                         <td>
-                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $ls6_id;?>">
+                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $ls6_id;?>">
                                                 <span>Order Now</span>
                                             </a>
                                         </td>
@@ -2275,7 +2275,7 @@
                                         </td>
 
                                         <td>
-                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $ld1_id;?>">
+                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $ld1_id;?>">
                                                 <span>Order Now</span>
                                             </a>
                                         </td>
@@ -2331,7 +2331,7 @@
                                         </td>
 
                                         <td>
-                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $ld2_id;?>">
+                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $ld2_id;?>">
                                                 <span>Order Now</span>
                                             </a>
                                         </td>
@@ -2387,7 +2387,7 @@
                                         </td>
 
                                         <td>
-                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $ld3_id;?>">
+                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $ld3_id;?>">
                                                 <span>Order Now</span>
                                             </a>
                                         </td>
@@ -2443,7 +2443,7 @@
                                         </td>
 
                                         <td>
-                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $ld4_id;?>">
+                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $ld4_id;?>">
                                                 <span>Order Now</span>
                                             </a>
                                         </td>
@@ -2499,7 +2499,7 @@
                                         </td>
 
                                         <td>
-                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $ld5_id;?>">
+                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $ld5_id;?>">
                                                 <span>Order Now</span>
                                             </a>
                                         </td>
@@ -2555,7 +2555,7 @@
                                         </td>
 
                                         <td>
-                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $ld6_id;?>">
+                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $ld6_id;?>">
                                                 <span>Order Now</span>
                                             </a>
                                         </td>
@@ -2611,7 +2611,7 @@
                                         </td>
 
                                         <td>
-                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $ld7_id;?>">
+                                            <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $ld7_id;?>">
                                                 <span>Order Now</span>
                                             </a>
                                         </td>
@@ -2705,7 +2705,7 @@
 
 
                     <div class="d-flex justify-content-center">
-                        <a type="button" data-url="https://my.cloudington.com/cart.php?a=add" data-new='' class="p_order  btn btn-primary">Order Now</a>
+                        <a type="button" data-url="https://my.cloudyea.com/cart.php?a=add" data-new='' class="p_order  btn btn-primary">Order Now</a>
                     </div>
                 </form>
             </div>

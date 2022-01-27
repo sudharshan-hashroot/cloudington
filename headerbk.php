@@ -575,14 +575,14 @@
 
                         <!-- Button -->
                         <li class="navbar-nav-last-item">
-                            <a class="btn btn-sm btn-outline-primary loginbtn" href="https://my.cloudington.com/index.php?rp=/login" target="_blank">
+                            <a class="btn btn-sm btn-outline-primary loginbtn" href="https://my.cloudyea.com/index.php?rp=/login" target="_blank">
                           Login
                         </a>
                         </li>
                         <!-- End Button -->
                         <!-- Button -->
                         <li class="navbar-nav-last-item">
-                            <a class="btn btn-sm btn-primary transition-3d-hover" href="https://my.cloudington.com/register.php" target="_blank">
+                            <a class="btn btn-sm btn-primary transition-3d-hover" href="https://my.cloudyea.com/register.php" target="_blank">
                          Signup
                         </a>
                         </li>

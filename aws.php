@@ -1902,7 +1902,7 @@
                             </div>
         <!-- 
                             <div class="d-flex justify-content-center">
-                                <a type="button" data-url="https://my.cloudington.com/cart.php?a=add" data-new='' class="p_order  btn btn-primary">Order Now</a>
+                                <a type="button" data-url="https://my.cloudyea.com/cart.php?a=add" data-new='' class="p_order  btn btn-primary">Order Now</a>
                             </div> -->
                         </form>
                     </div>

@@ -1,6 +1,6 @@
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^cloudington.com [NC]
-RewriteRule ^(.*)$ http://www.cloudington.com/$1 [L,R=301]
+RewriteCond %{HTTP_HOST} ^cloudyea.com [NC]
+RewriteRule ^(.*)$ http://www.cloudyea.com/$1 [L,R=301]
 
 RewriteRule ^/?/$ /index.php
 RewriteRule ^/?azure-cloud-hosting$ /azure.php
@@ -30,7 +30,7 @@ RewriteRule ^/?moodle-hosting$ /moodle.php
 RewriteRule ^/?woocommerce-hosting$ /woocommerce.php
 
 
-# 1.BEGIN Gzip cloudington
+# 1.BEGIN Gzip cloudyea
 
 <IfModule mod_deflate.c>
 # Compress HTML, CSS, JavaScript, Text, XML and fonts
@@ -63,7 +63,7 @@ BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
 Header append Vary User-Agent
 </IfModule>
 
-# END Gzip cloudington
+# END Gzip cloudyea
 
 
 <IfModule mod_expires.c>

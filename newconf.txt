@@ -29,8 +29,8 @@ server {
     server_name example.com;
     expires $expires;
     # !!! UNABLE TO REWRITE: 
-    # RewriteCond $host ^cloudington.com [NC]
-    # RewriteRule ^(.*)$ http://www.cloudington.com/$1 [L,R=301]
+    # RewriteCond $host ^cloudyea.com [NC]
+    # RewriteRule ^(.*)$ http://www.cloudyea.com/$1 [L,R=301]
     rewrite ^/?/$ /index.php;
     rewrite ^/?azure-cloud-hosting$ /azure.php;
     rewrite ^/?google-cloud-hosting$ /gcp.php;

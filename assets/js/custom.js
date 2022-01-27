@@ -54,7 +54,7 @@ $(".submitall").attr("instance",instance)
      data.instance = $("#instancetype").val();
      var pid = $(".submitall").attr("pid")
      var instance = $(".submitall").attr("instance")
-     var url = "https://my.cloudington.com/cart.php?a=add&pid="+pid+"&configoption[58]="+data.region+"&configoption[59]="+data.blueprint+"&configoption[60]="+instance+"&domain="+data.hostname+getlivecurrency();
+     var url = "https://my.cloudyea.com/cart.php?a=add&pid="+pid+"&configoption[58]="+data.region+"&configoption[59]="+data.blueprint+"&configoption[60]="+instance+"&domain="+data.hostname+getlivecurrency();
     window.location.href=url;
     // console.log(url)
   })
@@ -67,7 +67,7 @@ $(".submitall").attr("instance",instance)
      data.region = $("#doregionselect").val();
      data.blueprint = $("#doblueprintselect").val();
      var pid = $(".submitall").attr("pid")
-     var url = "https://my.cloudington.com/cart.php?a=add&pid="+pid+"&configoption[55]="+data.region+"&configoption[56]="+data.blueprint+"&domain="+data.hostname+getlivecurrency();
+     var url = "https://my.cloudyea.com/cart.php?a=add&pid="+pid+"&configoption[55]="+data.region+"&configoption[56]="+data.blueprint+"&domain="+data.hostname+getlivecurrency();
     window.location.href=url;
     // console.log(url)
    

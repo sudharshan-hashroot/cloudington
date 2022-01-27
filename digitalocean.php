@@ -231,7 +231,7 @@
                                     </td>
     
                                     <td>
-                                        <!-- <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $d1_product_id;?>">
+                                        <!-- <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $d1_product_id;?>">
                                             <span>Order Now</span>
                                         </a> -->
                                         <a class="plink btn btn-outline-primary btn-block border transition-3d-hover configorder" href="javascript:;" data-toggle="modal" product-id="<?php echo $d1_id;?>"  data-target="#selectDORegion">
@@ -289,7 +289,7 @@
                                     </td>
     
                                     <td>
-                                        <!-- <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $d2_product_id;?>">
+                                        <!-- <a class="plink btn btn-outline-primary btn-block border transition-3d-hover" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $d2_product_id;?>">
                                             <span>Order Now</span>
                                         </a> -->
                                         <a class="plink btn btn-outline-primary btn-block border transition-3d-hover configorder" href="javascript:;" data-toggle="modal" product-id="<?php echo $d2_id;?>"  data-target="#selectDORegion">
@@ -2184,7 +2184,7 @@
                             </div>
         <!-- 
                             <div class="d-flex justify-content-center">
-                                <a type="button" data-url="https://my.cloudington.com/cart.php?a=add" data-new='' class="p_order  btn btn-primary">Order Now</a>
+                                <a type="button" data-url="https://my.cloudyea.com/cart.php?a=add" data-new='' class="p_order  btn btn-primary">Order Now</a>
                             </div> -->
                         </form>
                     </div>

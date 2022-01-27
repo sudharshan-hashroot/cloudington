@@ -27,7 +27,7 @@ RewriteRule ^/?moodle-hosting$ /moodle.php
 RewriteRule ^/?woocommerce-hosting$ /woocommerce.php
 
 
-# 1.BEGIN Gzip cloudington
+# 1.BEGIN Gzip cloudyea
 
 <IfModule mod_deflate.c>
 # Compress HTML, CSS, JavaScript, Text, XML and fonts
@@ -60,7 +60,7 @@ BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
 Header append Vary User-Agent
 </IfModule>
 
-# END Gzip cloudington
+# END Gzip cloudyea
 
 
 

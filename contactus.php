@@ -102,9 +102,9 @@
                                         </span>
                                     </figure>
                                     <h3 class="h4">Email</h3>
-                                    <p class="text-body mb-0">contact@cloudington.com</p>
+                                    <p class="text-body mb-0">contact@cloudyea.com</p>
                                 </div>
-                                <div class="card-footer font-weight-bold py-3 px-lg-5" onclick="window.location='mailto:contact@cloudington.com'" style="cursor: pointer;">
+                                <div class="card-footer font-weight-bold py-3 px-lg-5" onclick="window.location='mailto:contact@cloudyea.com'" style="cursor: pointer;">
                                     Send Us mail <i class="fas fa-angle-right fa-sm ml-1"></i>
                                 </div>
                             </a>

@@ -206,7 +206,7 @@
 
 
                                         <div class="card-footer border-0">
-                                            <a type="button" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $v1_id;?>" class="btn btn-soft-primary btn-block transition-3d-hover">
+                                            <a type="button" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $v1_id;?>" class="btn btn-soft-primary btn-block transition-3d-hover">
                                                 Get Started
                                             </a>
                                         </div>
@@ -320,7 +320,7 @@
 
 
                                         <div class="card-footer bg-primary text-white border-0">
-                                            <a type="button" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $v2_id;?>" class="btn btn-light btn-block transition-3d-hover">
+                                            <a type="button" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $v2_id;?>" class="btn btn-light btn-block transition-3d-hover">
                                                 Get Started
                                             </a>
                                         </div>
@@ -433,7 +433,7 @@
 
 
                                         <div class="card-footer border-0">
-                                            <a type="button" href="https://my.cloudington.com/cart.php?a=add&pid=<?php echo $v3_id;?>" class="btn btn-soft-primary btn-block transition-3d-hover">
+                                            <a type="button" href="https://my.cloudyea.com/cart.php?a=add&pid=<?php echo $v3_id;?>" class="btn btn-soft-primary btn-block transition-3d-hover">
                                                 Get Started
                                             </a>
                                         </div>

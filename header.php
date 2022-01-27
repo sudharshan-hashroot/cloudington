@@ -590,7 +590,7 @@
 
 
                                     <div class="navbar-promo-item">
-                                        <a class="navbar-promo-link" href="https://my.cloudington.com/cart.php?a=add&domain=register">
+                                        <a class="navbar-promo-link" href="https://my.cloudyea.com/cart.php?a=add&domain=register">
                                             <div class="media align-items-center">
                                                 <span class="icon icon-md icon-soft-success icon-circle mr-3">
                                                 <i class="fas fa-globe "></i>
@@ -644,10 +644,10 @@
 
                             </li>
                             <li class="navbar-nav-last-item ml-0">
-                                <a class="btn btn-sm btn-outline-primary loginbtn mr-3" href="https://my.cloudington.com/index.php?rp=/login">
+                                <a class="btn btn-sm btn-outline-primary loginbtn mr-3" href="https://my.cloudyea.com/index.php?rp=/login">
                                     Login
                                   </a>
-                                <a class="btn btn-sm btn-primary transition-3d-hover " href="https://my.cloudington.com/register.php">
+                                <a class="btn btn-sm btn-primary transition-3d-hover " href="https://my.cloudyea.com/register.php">
                                     Signup
                                    </a>
                             </li>

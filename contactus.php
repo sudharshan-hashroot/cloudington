@@ -60,10 +60,10 @@
                                        </span>
                                     </figure>
                                     <h3 class="h4">Contact support</h3>
-                                    <p class="text-body mb-0">+91-70123-25278
+                                    <p class="text-body mb-0">+91-9778426319
                                     </p>
                                 </div>
-                                <div class="card-footer font-weight-bold py-3 px-lg-5" onclick="window.location='tel:+91-70123-25278'" style="cursor: pointer;">
+                                <div class="card-footer font-weight-bold py-3 px-lg-5" onclick="window.location='tel:+91-9778426319'" style="cursor: pointer;">
 
                                     Call Us <i class="fas fa-angle-right fa-sm ml-1"></i>
 

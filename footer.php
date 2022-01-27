@@ -155,7 +155,7 @@
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a class="btn btn-xs btn-icon btn-soft-secondary" href="https://instagram.com/_cloudyea" target="_blank">
+                        <a class="btn btn-xs btn-icon btn-soft-secondary" href="https://www.instagram.com/_Cloudyea/" target="_blank">
                             <i class="fab fa-instagram"></i>
                         </a>
                     </li>

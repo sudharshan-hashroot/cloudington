@@ -3,12 +3,11 @@
 
 <head>
     <!-- Title -->
-    <title>Managed Cloud Hosting Services - Web Hosting | Cloudington</title>
-
+    <title>Managed Cloud Hosting Services - Web Hosting | Cloudyea</title>
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
     <meta name="title" content="Managed Cloud Hosting Services - Web Hosting |Cloudington">
-    <meta name="description" content="Get fully managed cloud hosting services at an affordable price from Cloudington. Highly secure cloud web hosting, WordPress hosting backed by 24/7 dedicated support.">
+    <meta name="description" content="Get fully managed cloud hosting services at an affordable price from Cloudyea. Highly secure cloud web hosting, WordPress hosting backed by 24/7 dedicated support.">
     <meta name="keywords" content="Managed cloud hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="canonical" href="https://www.cloudyea.com" />
@@ -34,90 +33,100 @@
     <link rel="stylesheet preload" href="./node_modules/aos/dist/aos.css">
     <link rel="stylesheet preload" href="./node_modules/aos/dist/aos.css">
     <!-- CSS Implementing Plugins -->
-<link rel="stylesheet" href="./node_modules/select2/dist/css/select2.min.css">
+    <link rel="stylesheet" href="./node_modules/select2/dist/css/select2.min.css">
 
 
     <meta name="google-site-verification" content="4dItxkdRdsM2gQJDPGi0wvJ5iLlsgPPrLugnkiGL6FU" />
-<style>
-  
+    <style>
+        .btn-gradient {
+            background: linear-gradient(131deg, #2899f0, #2de0bd);
+            color: #fff;
+        }
 
-     .btn-gradient{
-        background: linear-gradient(131deg, #2899f0, #2de0bd);
-        color: #fff;
-    }
-    .btn-gradient:hover{
-        background: linear-gradient(45deg, #2899f0, #2de0bd)!important;
-        transition: .2s ease-in-out;
-        color: #fff!important;
-    }
-    .bg-gradient{
-        background: linear-gradient(131deg, #2899f0, #2de0bd);
-    }
-    .stepdbtn{
-        border: none!important;
-    }
-    
-    .steps-desk>.steps-arrow{
-      filter: opacity(.5);
-    }
-    .flexboxy{
-        flex: 1 0 30%;
-        margin: 0.5rem;
-        padding: 2rem 1rem!important;
-        
-    }
-    .flexboxy-icon{
-        flex: 1 0 30%;
-        margin: 0.5rem;
-        padding: 2rem .5rem!important;
-        font-size: 1.5rem;
-       
-    }
-    .flexboxy > img{
-        height: 3rem;
-        padding: 10px;
-    }
-    .icon-flag{
-        width: 10%;
-    }
-    /* .flexboxy:hover > img{
+        .btn-gradient:hover {
+            background: linear-gradient(45deg, #2899f0, #2de0bd) !important;
+            transition: .2s ease-in-out;
+            color: #fff !important;
+        }
+
+        .bg-gradient {
+            background: linear-gradient(131deg, #2899f0, #2de0bd);
+        }
+
+        .stepdbtn {
+            border: none !important;
+        }
+
+        .steps-desk>.steps-arrow {
+            filter: opacity(.5);
+        }
+
+        .flexboxy {
+            flex: 1 0 30%;
+            margin: 0.5rem;
+            padding: 2rem 1rem !important;
+
+        }
+
+        .flexboxy-icon {
+            flex: 1 0 30%;
+            margin: 0.5rem;
+            padding: 2rem .5rem !important;
+            font-size: 1.5rem;
+
+        }
+
+        .flexboxy>img {
+            height: 3rem;
+            padding: 10px;
+        }
+
+        .icon-flag {
+            width: 10%;
+        }
+
+        /* .flexboxy:hover > img{
     filter: grayscale(100) brightness(100) ;
     } */
-    .stepbtn{
-        width:  3.5rem;
-        height: 3.5rem;
-       
-        font-weight: bold;
-    }
-    .dashedlne-right{
-        position: absolute;
-        border-top: .5px dashed #2899f0;
-        right: 0;
-        top: 1.5rem;
-        width: 40%;
-    }
-    .dashedlne-left{
-        position: absolute;
-        border-top: .5px dashed #2899f0;
-        left: 0;
-        top: 1.5rem;
-        width: 40%;
-    }
-    div:hover >.stepbtn{
-background: #2899f0;
-color: aliceblue;
-    }
-    
-    @media(max-width:992px){
-        .steps-desk{
-            display: none!important;
+        .stepbtn {
+            width: 3.5rem;
+            height: 3.5rem;
+
+            font-weight: bold;
         }
-        .dashedlne-left , .dashedlne-right{
-            display: none;
+
+        .dashedlne-right {
+            position: absolute;
+            border-top: .5px dashed #2899f0;
+            right: 0;
+            top: 1.5rem;
+            width: 40%;
         }
-    }
-  
-</style>
+
+        .dashedlne-left {
+            position: absolute;
+            border-top: .5px dashed #2899f0;
+            left: 0;
+            top: 1.5rem;
+            width: 40%;
+        }
+
+        div:hover>.stepbtn {
+            background: #2899f0;
+            color: aliceblue;
+        }
+
+        @media(max-width:992px) {
+            .steps-desk {
+                display: none !important;
+            }
+
+            .dashedlne-left,
+            .dashedlne-right {
+                display: none;
+            }
+        }
+    </style>
 
 
 </head>
@@ -189,11 +198,11 @@ color: aliceblue;
                     <div class="w-80 mb-5 mx-auto">
                         <small class="btn btn-xs btn-soft-primary btn-rounded text-uppercase font-weight-bold mb-2">how cloudyea works?</small>
                         <h2>
-                        Launch your server in 4 steps
+                            Launch your server in 4 steps
                         </h2>
                     </div>
-              
-              <div class="bg-gradient text-light w-90 mx-auto rounded-pill p-2 d-flex justify-content-between align-items-center mb-4 steps-desk">
+
+                    <div class="bg-gradient text-light w-90 mx-auto rounded-pill p-2 d-flex justify-content-between align-items-center mb-4 steps-desk">
                         <div class="btn btn-sm btn-pill btn-outline-light w-15 stepdbtn step1">Step 1</div>
                         <div class="steps-arrow">
                             <i class="fas fa-chevron-right"></i>
@@ -210,31 +219,31 @@ color: aliceblue;
                             <i class="fas fa-chevron-right"></i>
                         </div>
                         <div class="btn btn-sm btn-pill btn-outline-light w-15 stepdbtn step4">Step 4</div>
-              </div>
+                    </div>
                     <div class="row" style="z-index: 4;">
                         <div class="col-sm-6 col-md-6 col-lg-3 mb-4 text-center position-relative">
                             <!-- <div class="dashedlne-right"></div> -->
-                             <span class="btn btn-gradient  btn-pill  w-50  font-weight-bold mb-4 d-lg-none mx-auto">step 1</span>
-                         <!-- <span class="btn btn-outline-primary btn-pill stepbtn p-3  font-weight-bold mb-4 ">1</span> -->
-                         <div class="card py-4 px-3 card-wrapper1 " data-aos="fade-up" >
-                            <h4>Select the cloud provider </h4>
-                            <small>We resell most of the public cloud providers. Just choose from the available list of providers.</small>
-                            <hr>
-                            <div class="d-flex justify-content-between align-items-center" style="flex-wrap: wrap;">
-                                <div class="btn btn-primary btn-rounded   flexboxy">
-                                    <img  src="./assets/svg/cloud-square/aws.svg" alt="" style="filter:grayscale(100) brightness(100);">
+                            <span class="btn btn-gradient  btn-pill  w-50  font-weight-bold mb-4 d-lg-none mx-auto">step 1</span>
+                            <!-- <span class="btn btn-outline-primary btn-pill stepbtn p-3  font-weight-bold mb-4 ">1</span> -->
+                            <div class="card py-4 px-3 card-wrapper1 " data-aos="fade-up">
+                                <h4>Select the cloud provider </h4>
+                                <small>We resell most of the public cloud providers. Just choose from the available list of providers.</small>
+                                <hr>
+                                <div class="d-flex justify-content-between align-items-center" style="flex-wrap: wrap;">
+                                    <div class="btn btn-primary btn-rounded   flexboxy">
+                                        <img src="./assets/svg/cloud-square/aws.svg" alt="" style="filter:grayscale(100) brightness(100);">
+                                    </div>
+                                    <div class="btn border border-rounded  btn-outline btn-disabled btn-rounded flexboxy ">
+                                        <img src="./assets/svg/cloud-square/linode.svg" alt="">
+                                    </div>
+                                    <div class="btn border border-rounded  btn-outline btn-disabled btn-rounded flexboxy ">
+                                        <img src="./assets/svg/cloud-square/do.svg" alt="">
+                                    </div>
+                                    <div class="btn border border-rounded  btn-outline btn-disabled btn-rounded flexboxy ">
+                                        <img src="./assets/svg/cloud-square/azure.svg" alt="">
+                                    </div>
                                 </div>
-                                <div class="btn border border-rounded  btn-outline btn-disabled btn-rounded flexboxy ">
-                                    <img  src="./assets/svg/cloud-square/linode.svg" alt="">
-                                </div>
-                                <div class="btn border border-rounded  btn-outline btn-disabled btn-rounded flexboxy ">
-                                    <img  src="./assets/svg/cloud-square/do.svg" alt="">
-                                </div>
-                                <div class="btn border border-rounded  btn-outline btn-disabled btn-rounded flexboxy ">
-                                    <img  src="./assets/svg/cloud-square/azure.svg" alt="">
-                                </div>
-                            </div>                
-                         </div>
+                            </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-3 mb-4 text-center position-relative">
                             <!-- <div class="dashedlne-right"></div>
@@ -242,99 +251,99 @@ color: aliceblue;
                             <span class="btn btn-gradient  btn-pill  w-50  font-weight-bold mb-4 d-lg-none mx-auto">Step 2</span>
                             <!-- <span class="btn btn-outline-primary btn-pill stepbtn p-3 font-weight-bold mb-4 transition-3d-hover">2</span> -->
                             <div class="card py-4 px-3 card-wrapper2 transition-3d-hover" data-aos="fade-up" data-aos-delay="20" data-offset="20">
-                               <h4>Choose the Server</h4>
-                               <small>Our plans are very easy to understand and if you have any doubts, just ping our technical team.
-                          </small>
-                               <hr>
-                              <div>
-                                  <div class="btn btn-primary btn-block  mb-2 text-left">
-                                      <i class="fas fa-server mr-1"></i>
-                                      Server 1
-                                  </div>
-                                  <div class="btn border border-rounded  btn-outline btn-disabled  btn-block mb-2 text-left">
-                                    <i class="fas fa-server mr-1"></i>
-                                    Server 2
+                                <h4>Choose the Server</h4>
+                                <small>Our plans are very easy to understand and if you have any doubts, just ping our technical team.
+                                </small>
+                                <hr>
+                                <div>
+                                    <div class="btn btn-primary btn-block  mb-2 text-left">
+                                        <i class="fas fa-server mr-1"></i>
+                                        Server 1
+                                    </div>
+                                    <div class="btn border border-rounded  btn-outline btn-disabled  btn-block mb-2 text-left">
+                                        <i class="fas fa-server mr-1"></i>
+                                        Server 2
+                                    </div>
+                                    <div class="btn border border-rounded  btn-outline btn-disabled  btn-block mb-2 text-left"">
+                                    <i class=" fas fa-server mr-1"></i>
+                                        Server 3
+                                    </div>
+                                    <div class="btn border border-rounded  btn-outline btn-disabled  btn-block mb-2 text-left"">
+                                    <i class=" fas fa-server mr-1"></i>
+                                        Server 4
+                                    </div>
+
                                 </div>
-                                <div class="btn border border-rounded  btn-outline btn-disabled  btn-block mb-2 text-left"">
-                                    <i class="fas fa-server mr-1"></i>
-                                    Server 3
-                                </div>
-                                <div class="btn border border-rounded  btn-outline btn-disabled  btn-block mb-2 text-left"">
-                                    <i class="fas fa-server mr-1"></i>
-                                    Server 4
-                                </div>
-                             
-                              </div>              
                             </div>
-                           </div>
-                           <div class="col-sm-6 col-md-6 col-lg-3 mb-4 text-center position-relative">
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 mb-4 text-center position-relative">
                             <!-- <div class="dashedlne-right"></div>
                             <div class="dashedlne-left"></div> -->
                             <span class="btn btn-gradient  btn-pill  w-50  font-weight-bold mb-4 d-lg-none mx-auto">Step 3</span>
                             <!-- <span class="btn btn-outline-primary btn-pill stepbtn p-3 font-weight-bold mb-4 transition-3d-hover">3</span> -->
                             <div class="card py-4 px-3 card-wrapper3 transition-3d-hover" data-aos="fade-up" data-aos-delay="30" data-offset="30">
-                               <h4>Select the Location</h4>
-                               <small>We offer multiple locations across the globe to help you comply with different regulatory hurdles.
-                            </small>
-                               <hr>
-                              <div>
-                                  <div class="btn border border-rounded btn-block btn-outline btn-disabled mb-4 text-left">
-                                      <i class="fas fa-search mr-3"></i>
-                                   Search Location
-                                  </div>
-                                  <div class="btn border border-rounded  btn-outline btn-disabled  btn-block  mb-2 text-left">
-                                    <img class=" avatar-img rounded-circle shadow-soft icon-flag mr-3"  src="./assets/svg/maps/flag/usa.svg">
-                                   Ohio
-                                  </div>
-                                  <div class="btn btn-primary btn-block  mb-2 text-left">
-                                    <img class=" avatar-img rounded-circle shadow-soft icon-flag  mr-3"  src="./assets/svg/maps/flag/india.svg">
-                                   Mumbai
-                                  </div>
-                                  <div class="btn border border-rounded  btn-outline btn-disabled   btn-block  mb-2 text-left">
-                                    <img class=" avatar-img rounded-circle shadow-soft icon-flag  mr-3"  src="./assets/svg/maps/flag/japan.svg">
-                                   Tokyo
-                                  </div>
-                                
-                                 
-                             
-                             
-                              </div>              
+                                <h4>Select the Location</h4>
+                                <small>We offer multiple locations across the globe to help you comply with different regulatory hurdles.
+                                </small>
+                                <hr>
+                                <div>
+                                    <div class="btn border border-rounded btn-block btn-outline btn-disabled mb-4 text-left">
+                                        <i class="fas fa-search mr-3"></i>
+                                        Search Location
+                                    </div>
+                                    <div class="btn border border-rounded  btn-outline btn-disabled  btn-block  mb-2 text-left">
+                                        <img class=" avatar-img rounded-circle shadow-soft icon-flag mr-3" src="./assets/svg/maps/flag/usa.svg">
+                                        Ohio
+                                    </div>
+                                    <div class="btn btn-primary btn-block  mb-2 text-left">
+                                        <img class=" avatar-img rounded-circle shadow-soft icon-flag  mr-3" src="./assets/svg/maps/flag/india.svg">
+                                        Mumbai
+                                    </div>
+                                    <div class="btn border border-rounded  btn-outline btn-disabled   btn-block  mb-2 text-left">
+                                        <img class=" avatar-img rounded-circle shadow-soft icon-flag  mr-3" src="./assets/svg/maps/flag/japan.svg">
+                                        Tokyo
+                                    </div>
+
+
+
+
+                                </div>
                             </div>
-                           </div>
-                     
-                           <div class="col-sm-6 col-md-6 col-lg-3 mb-4 text-center position-relative">
-                           
+                        </div>
+
+                        <div class="col-sm-6 col-md-6 col-lg-3 mb-4 text-center position-relative">
+
                             <!-- <div class="dashedlne-left"></div> -->
                             <span class="btn btn-gradient  btn-pill  w-50  font-weight-bold mb-4 d-lg-none mx-auto">Step 4</span>
                             <!-- <span class="btn btn-outline-primary btn-pill stepbtn p-3 font-weight-bold mb-4 ">4</span> -->
                             <div class="card py-4 px-3 card-wrapper " data-aos="fade-up" data-aos-delay="40" data-offset="40">
-                               <h4>Make Payment  </h4>
-                               <small>Once the payment is successful, the order will be processed and you'll receive your server login details.</small>
-                               <hr>
-                               <div class="d-flex justify-content-between align-items-center" style="flex-wrap: wrap;">
-                                   <div class="btn btn-primary btn-rounded   flexboxy-icon">
-                                   <i class="fab fa-paypal"></i>
-                                   </div>
-                                   <div class="btn border border-rounded  btn-outline btn-disabled btn-rounded flexboxy-icon">
-                                    <i class="fas fa-credit-card"></i>
-                                   </div>
-                                   <div class="btn border border-rounded  btn-outline btn-disabled  btn-rounded  flexboxy-icon">
-                                    <i class="fas fa-wallet"></i>
-                                   </div>
-                                   <div class="btn border border-rounded  btn-outline btn-disabled  flexboxy-icon">
-                                    <i class="fab fa-google-wallet"></i>
-                                   </div>
-                               </div>                
+                                <h4>Make Payment </h4>
+                                <small>Once the payment is successful, the order will be processed and you'll receive your server login details.</small>
+                                <hr>
+                                <div class="d-flex justify-content-between align-items-center" style="flex-wrap: wrap;">
+                                    <div class="btn btn-primary btn-rounded   flexboxy-icon">
+                                        <i class="fab fa-paypal"></i>
+                                    </div>
+                                    <div class="btn border border-rounded  btn-outline btn-disabled btn-rounded flexboxy-icon">
+                                        <i class="fas fa-credit-card"></i>
+                                    </div>
+                                    <div class="btn border border-rounded  btn-outline btn-disabled  btn-rounded  flexboxy-icon">
+                                        <i class="fas fa-wallet"></i>
+                                    </div>
+                                    <div class="btn border border-rounded  btn-outline btn-disabled  flexboxy-icon">
+                                        <i class="fab fa-google-wallet"></i>
+                                    </div>
+                                </div>
                             </div>
-                           </div>
-                       
+                        </div>
+
                     </div>
-               
-                    </div>
+
                 </div>
             </div>
+            </div>
         </section>
-  
+
         <!--pricing-->
         <div class="container d-none">
             <div class="w-lg-85 mx-lg-auto space-2 space-top-lg-3">
@@ -345,7 +354,7 @@ color: aliceblue;
                             <div class="pl-4">
                                 <span class="icon icon-md icon-soft-success icon-rounded mb-3">
                                     <i class="fas fa-cloud "></i>
-                                   </span>
+                                </span>
 
 
                                 <h3>Customized Cloud</h3>
@@ -382,7 +391,7 @@ color: aliceblue;
                             <div class="pl-4">
                                 <span class="icon icon-md icon-soft-primary icon-rounded mb-3">
                                     <i class="fas fa-phone-alt "></i>
-                                   </span>
+                                </span>
                                 <h3>Dedicated Support</h3>
 
 
@@ -421,7 +430,7 @@ color: aliceblue;
                             <div class="pl-4">
                                 <span class="icon icon-md icon-soft-info icon-rounded mb-3">
                                     <i class="fas fa-cog "></i>
-                                   </span>
+                                </span>
                                 <h3>Control Hassle Free</h3>
 
 
@@ -479,7 +488,7 @@ color: aliceblue;
 
 
         <!-- Features Section -->
-        <?php include('./tab_pricing_web.php');?>
+        <?php include('./tab_pricing_web.php'); ?>
         <!-- End Features Section -->
 
 
@@ -679,8 +688,8 @@ color: aliceblue;
                 <!-- SVG Shapes -->
                 <figure class="position-absolute z-index-n1" style="top: -35rem; left: 50rem; width: 62rem; height: 62rem;">
                     <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 260 260">
-          <circle fill="#e7eaf3" opacity=".01" cx="130" cy="130" r="130"/>
-        </svg>
+                        <circle fill="#e7eaf3" opacity=".01" cx="130" cy="130" r="130" />
+                    </svg>
                 </figure>
                 <!-- <figure class="position-absolute z-index-n1" style="top: 15rem; left: 70rem; width: 20rem; height: 20rem;">
                     <img    class=" img-fluid" src="./assets/svg/components/circled-stripe.svg" alt="Managed cloud hosting">
@@ -694,8 +703,8 @@ color: aliceblue;
             <!-- SVG Bottom Shape -->
             <figure class="position-absolute right-0 bottom-0 left-0">
                 <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 1921 273">
-        <polygon fill="#fff" points="0,273 1921,273 1921,0 "/>
-      </svg>
+                    <polygon fill="#fff" points="0,273 1921,273 1921,0 " />
+                </svg>
             </figure>
             <!-- End SVG Bottom Shape -->
         </div>
@@ -712,7 +721,7 @@ color: aliceblue;
                         <!-- Title -->
                         <div class="mb-5 mb-md-7">
                             <h2 class="mb-3">Secure & fully managed cloud hosting that guarantees unmatched performance</h2>
-                            <p>Whether you're creating a subscription service, an on-demand marketplace, an e-commerce store, or a portfolio showcase, Cloudington's unmatched functionality help you create the best possible product for your users.</p>
+                            <p>Whether you're creating a subscription service, an on-demand marketplace, an e-commerce store, or a portfolio showcase, Cloudyea unmatched functionality help you create the best possible product for your users.</p>
                         </div>
                         <!-- End Title -->
 
@@ -760,14 +769,14 @@ color: aliceblue;
                 <div class="w-md-80 w-lg-60 text-center mx-md-auto mb-3">
                     <div class="min-w-8rem mr-2 mb-2">
                         <span class="icon icon-md icon-circle icon-soft-primary">
-                          <i class="fas fa-globe"></i>
-                      </span>
+                            <i class="fas fa-globe"></i>
+                        </span>
                     </div>
                     <h2 class="h1"> Global Data center Locations</h2>
                     <!-- <p>Whatever your status, our offers evolve according to your needs.</p> -->
                 </div>
                 <div class="d-flex justify-content-center align-items-center">
-                    <?php include('./assets/svg/maps/homemap.php');?>
+                    <?php include('./assets/svg/maps/homemap.php'); ?>
                 </div>
                 <div class="js-slick-carousel slick slick-gutters-3 slick-equal-height" data-hs-slick-carousel-options='{
                     "prevArrow": "<span class=\"fas fa-arrow-left slick-arrow slick-arrow-left slick-arrow-centered-y shadow-soft rounded-circle ml-sm-2 ml-md-n2\"></span>",
@@ -796,7 +805,7 @@ color: aliceblue;
                                     <a class="text-dark">West Coast USA</a>
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">California,Fremont, Los Angeles, Oregan, San Francisco </span>
-                                <span class="d-block font-size-1 text-body mb-1">5 location(s) served by 4 provider(s).    </span>
+                                <span class="d-block font-size-1 text-body mb-1">5 location(s) served by 4 provider(s). </span>
 
                             </div>
 
@@ -842,7 +851,7 @@ color: aliceblue;
                                     <a class="text-dark">East Coast USA</a>
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">New York, Ohio, South Carolina, Virginia, Newark, Atlanta </span>
-                                <span class="d-block font-size-1 text-body mb-1">  6 location(s) served by 5 provider(s).  </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 6 location(s) served by 5 provider(s). </span>
 
                             </div>
 
@@ -892,7 +901,7 @@ color: aliceblue;
                                     <a class="text-dark">Mid West USA</a>
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Dallas, Iowa, Texas, Wyoming </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 4 location(s) served by 4 provider(s).  </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 4 location(s) served by 4 provider(s). </span>
 
                             </div>
 
@@ -936,8 +945,8 @@ color: aliceblue;
                                 <h3 class="mb-1">
                                     <a class="text-dark">Canada</a>
                                 </h3>
-                                <span class="d-block font-size-1 text-body mb-1">Montreal, Quebec City, Toronto   </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 3 location(s) served by 5 provider(s).  </span>
+                                <span class="d-block font-size-1 text-body mb-1">Montreal, Quebec City, Toronto </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 3 location(s) served by 5 provider(s). </span>
 
                             </div>
 
@@ -986,8 +995,8 @@ color: aliceblue;
                                 <h3 class="mb-1">
                                     <a class="text-dark">Brazil</a>
                                 </h3>
-                                <span class="d-block font-size-1 text-body mb-1">São Paulo  </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 3 provider(s).  </span>
+                                <span class="d-block font-size-1 text-body mb-1">São Paulo </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 3 provider(s). </span>
 
                             </div>
 
@@ -1027,8 +1036,8 @@ color: aliceblue;
                                 <h3 class="mb-1">
                                     <a class="text-dark">South Africa </a>
                                 </h3>
-                                <span class="d-block font-size-1 text-body mb-1">Cape Town, Johannesburg                          </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 2 location(s) served by 1 provider(s).  </span>
+                                <span class="d-block font-size-1 text-body mb-1">Cape Town, Johannesburg </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 2 location(s) served by 1 provider(s). </span>
 
                             </div>
 
@@ -1059,7 +1068,7 @@ color: aliceblue;
                                     <a class="text-dark">France </a>
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Paris </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 2 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 2 provider(s). </span>
 
                             </div>
 
@@ -1095,8 +1104,8 @@ color: aliceblue;
                                 <h3 class="mb-1">
                                     <a class="text-dark">Switzerland </a>
                                 </h3>
-                                <span class="d-block font-size-1 text-body mb-1">Geneva, Zurich                                </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 2 location(s) served by 2 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1">Geneva, Zurich </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 2 location(s) served by 2 provider(s). </span>
 
                             </div>
 
@@ -1133,7 +1142,7 @@ color: aliceblue;
                                     <a class="text-dark">Italy </a>
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Milan</span>
-                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 1 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 1 provider(s). </span>
 
                             </div>
 
@@ -1165,8 +1174,8 @@ color: aliceblue;
                                 <h3 class="mb-1">
                                     <a class="text-dark">Germany </a>
                                 </h3>
-                                <span class="d-block font-size-1 text-body mb-1">Berlin, Frankfurt, Magdeburg                                </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 3 location(s) served by 5 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1">Berlin, Frankfurt, Magdeburg </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 3 location(s) served by 5 provider(s). </span>
 
                             </div>
 
@@ -1221,8 +1230,8 @@ color: aliceblue;
                                 <h3 class="mb-1">
                                     <a class="text-dark">Netherlands </a>
                                 </h3>
-                                <span class="d-block font-size-1 text-body mb-1">Amstredam                              </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 4 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1">Amstredam </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 4 provider(s). </span>
 
                             </div>
 
@@ -1264,8 +1273,8 @@ color: aliceblue;
                                 <h3 class="mb-1">
                                     <a class="text-dark">Belgium </a>
                                 </h3>
-                                <span class="d-block font-size-1 text-body mb-1">Brussels                              </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 1 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1">Brussels </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 1 provider(s). </span>
 
                             </div>
 
@@ -1295,8 +1304,8 @@ color: aliceblue;
                                 <h3 class="mb-1">
                                     <a class="text-dark">Sweden </a>
                                 </h3>
-                                <span class="d-block font-size-1 text-body mb-1">Stockholm                              </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 1 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1">Stockholm </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 1 provider(s). </span>
 
                             </div>
 
@@ -1326,8 +1335,8 @@ color: aliceblue;
                                 <h3 class="mb-1">
                                     <a class="text-dark">Finland </a>
                                 </h3>
-                                <span class="d-block font-size-1 text-body mb-1">Hamania                              </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 1 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1">Hamania </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 1 provider(s). </span>
 
                             </div>
 
@@ -1357,8 +1366,8 @@ color: aliceblue;
                                 <h3 class="mb-1">
                                     <a class="text-dark">Norway </a>
                                 </h3>
-                                <span class="d-block font-size-1 text-body mb-1">Oslo, Stavangar  </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 2 location(s) served by 1 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1">Oslo, Stavangar </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 2 location(s) served by 1 provider(s). </span>
 
                             </div>
 
@@ -1390,7 +1399,7 @@ color: aliceblue;
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">London, Cardiff
                                 </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 2 location(s) served by 5 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 2 location(s) served by 5 provider(s). </span>
 
                             </div>
 
@@ -1442,7 +1451,7 @@ color: aliceblue;
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Dublin
                                 </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 2 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 2 provider(s). </span>
 
                             </div>
 
@@ -1481,7 +1490,7 @@ color: aliceblue;
                                 <span class="d-block font-size-1 text-body mb-1">Abu Dhabi, Dubai
 
                                 </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 2 location(s) served by 2 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 2 location(s) served by 2 provider(s). </span>
 
                             </div>
 
@@ -1520,7 +1529,7 @@ color: aliceblue;
                                 <span class="d-block font-size-1 text-body mb-1">Bangalore, Chennai, Mumbai, Pune
 
                                 </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 4 location(s) served by 5 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 4 location(s) served by 5 provider(s). </span>
 
                             </div>
 
@@ -1574,7 +1583,7 @@ color: aliceblue;
                                 <span class="d-block font-size-1 text-body mb-1">Hong kong
 
                                 </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 3 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 3 provider(s). </span>
 
                             </div>
 
@@ -1619,7 +1628,7 @@ color: aliceblue;
 
 
                                 </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 2 location(s) served by 2 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 2 location(s) served by 2 provider(s). </span>
 
                             </div>
 
@@ -1660,7 +1669,7 @@ color: aliceblue;
 
 
                                 </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 2 location(s) served by 5 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 2 location(s) served by 5 provider(s). </span>
 
                             </div>
 
@@ -1716,7 +1725,7 @@ color: aliceblue;
 
 
                                 </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 5 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 5 provider(s). </span>
 
                             </div>
 
@@ -1772,7 +1781,7 @@ color: aliceblue;
 
 
                                 </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 1 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 1 provider(s). </span>
 
                             </div>
 
@@ -1808,7 +1817,7 @@ color: aliceblue;
 
 
                                 </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 1 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 1 location(s) served by 1 provider(s). </span>
 
                             </div>
 
@@ -1845,7 +1854,7 @@ color: aliceblue;
 
 
                                 </span>
-                                <span class="d-block font-size-1 text-body mb-1"> 2 location(s) served by 5 provider(s).   </span>
+                                <span class="d-block font-size-1 text-body mb-1"> 2 location(s) served by 5 provider(s). </span>
 
                             </div>
 
@@ -2046,7 +2055,8 @@ color: aliceblue;
                     <div class="w-lg-50 text-center text-white mx-lg-auto mb-7">
                         <span class="d-block small text-white-70 font-weight-bold text-cap mb-2">Contact us</span>
                         <h2 class="text-white text-lh-lg">Looking for a managed hosting plan for your business?
-                            <span class="text-success"> Get in touch with us for assistance. </span></h2>
+                            <span class="text-success"> Get in touch with us for assistance. </span>
+                        </h2>
                     </div>
                     <!-- End Title -->
 
@@ -2083,8 +2093,8 @@ color: aliceblue;
             <!-- SVG Shape -->
             <figure class="position-absolute right-0 bottom-0 left-0">
                 <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1920 323" enable-background="new 0 0 1920 323" xml:space="preserve" style="margin-bottom: -8px;">
-                <polygon fill="#fff" points="0,323 1920,323 1920,0 "/>
-              </svg>
+                    <polygon fill="#fff" points="0,323 1920,323 1920,0 " />
+                </svg>
             </figure>
             <!-- End SVG Shape -->
         </div>
@@ -2287,35 +2297,35 @@ color: aliceblue;
     <script>
         if (/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) document.write('<script src="./assets/vendor/babel-polyfill/dist/polyfill.js"><\/script>');
     </script>
- 
 
 
-<!-- JS Implementing Plugins -->
-<script src="./node_modules/jquery-mask-plugin/dist/jquery.mask.min.js"></script>
-<script src="./node_modules/select2/dist/js/select2.full.min.js"></script>
-<script src="./assets/js/hs.select2.js"></script>
-<!-- JS Front -->
-<script src="./assets/js/hs.mask.js"></script>
+
+    <!-- JS Implementing Plugins -->
+    <script src="./node_modules/jquery-mask-plugin/dist/jquery.mask.min.js"></script>
+    <script src="./node_modules/select2/dist/js/select2.full.min.js"></script>
+    <script src="./assets/js/hs.select2.js"></script>
+    <!-- JS Front -->
+    <script src="./assets/js/hs.mask.js"></script>
 
 
-<!-- JS Plugins Init. -->
-<script>
-  $(document).on('ready', function () {
-    // INITIALIZATION OF MASKED INPUT
-    // =======================================================
-    $('.js-masked-input').each(function () {
-      var mask = $.HSCore.components.HSMask.init($(this));
-    });
+    <!-- JS Plugins Init. -->
+    <script>
+        $(document).on('ready', function() {
+            // INITIALIZATION OF MASKED INPUT
+            // =======================================================
+            $('.js-masked-input').each(function() {
+                var mask = $.HSCore.components.HSMask.init($(this));
+            });
 
 
-    // INITIALIZATION OF SELECT2
-    // =======================================================
-    $('.js-custom-select').each(function () {
-      var select2 = $.HSCore.components.HSSelect2.init($(this));
-     
-    });
-  });
-</script>
+            // INITIALIZATION OF SELECT2
+            // =======================================================
+            $('.js-custom-select').each(function() {
+                var select2 = $.HSCore.components.HSSelect2.init($(this));
+
+            });
+        });
+    </script>
 
 
 

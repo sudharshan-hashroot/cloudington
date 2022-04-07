@@ -176,7 +176,7 @@
 
             <!-- Title -->
             <!-- <div class="w-md-60 w-lg-50 text-center mx-auto mb-7">
-                <p class="text-dark"><span class="font-weight-bold">It is fast and easy.</span> Create your hosting and ongoing website with Cloudington.</p>
+                <p class="text-dark"><span class="font-weight-bold">It is fast and easy.</span> Create your hosting and ongoing website with Cloudyea.</p>
             </div> -->
             <!-- End Title -->
 
@@ -514,7 +514,7 @@ GCP hosting service?
                 <div class="card shadow-none mb-3">
                     <div class="card-header card-collapse" id="basicsHeadingSix">
                         <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#basicsCollapseSix" aria-expanded="false" aria-controls="basicsCollapseSix">
-                            Why do I need Cloudington's managed GCP hosting services, if I can buy Google servers myself?
+                            Why do I need Cloudyea's managed GCP hosting services, if I can buy Google servers myself?
   
             <span class="card-btn-toggle">
               <span class="card-btn-toggle-default">+</span>

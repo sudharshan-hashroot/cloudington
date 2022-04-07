@@ -3,12 +3,12 @@
 
 <head>
     <!-- Title -->
-    <title>Cloud Backup Services for Businesses | Cloudington</title>
+    <title>Cloud Backup Services for Businesses | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Cloud Backup Services for Businesses | Cloudington">
-    <meta name="description" content="Cloudington offers cloud backup-as-a-service to businesses. Back up your valuable business data on cloud storage and stay protected from any form of data loss.">
+    <meta name="title" content="Cloud Backup Services for Businesses | Cloudyea">
+    <meta name="description" content="Cloudyea offers cloud backup-as-a-service to businesses. Back up your valuable business data on cloud storage and stay protected from any form of data loss.">
     <meta name="keywords" content="Cloud Backup Services">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -59,7 +59,7 @@
                         </div>
                         <h1 class="display-4 text-white mb-4">Cloud Backup Services
                         </h1>
-                        <p class=" text-white mb-4">Cloudington offers cloud backup as a service (BaaS) to businesses of all scales. By backing up valuable business data on our cloud storage system, organizations can strengthen their data security strategy and stay protected from
+                        <p class=" text-white mb-4">Cloudyea offers cloud backup as a service (BaaS) to businesses of all scales. By backing up valuable business data on our cloud storage system, organizations can strengthen their data security strategy and stay protected from
                             ransomware and other forms of data loss. </p>
                     </div>
                     <a class="btn btn-light btn-wide transition-3d-hover">Start Now</a>
@@ -1526,7 +1526,7 @@
                                 </span>
                             </figure>
                             <h4>Fully Managed</h4>
-                            <p class="font-size-1 text-body mb-0 ">Cloudington continuously monitors your backups for problems and instantly addresses any issues that arise.
+                            <p class="font-size-1 text-body mb-0 ">Cloudyea continuously monitors your backups for problems and instantly addresses any issues that arise.
                             </p>
                         </div>
                         <div class="card-footer border-0 pt-0 ">
@@ -1567,7 +1567,7 @@
                 <!-- Title -->
                 <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9 ">
                     <h2 class="text-white ">Cost-Effective and Reliable Cloud Backup Services</h2>
-                    <p class="text-white-70 ">Get secure and reliable cloud backup services at an affordable price from Cloudington. Our cloud experts are highly talented and will help you to successfully backup your business data to the cloud. Chat with us if you have any queries.
+                    <p class="text-white-70 ">Get secure and reliable cloud backup services at an affordable price from Cloudyea. Our cloud experts are highly talented and will help you to successfully backup your business data to the cloud. Chat with us if you have any queries.
                     </p>
                     <a class="btn btn-rounded btn-light transition-3d-hover mb-3">Chat with Us</a>
                 </div>

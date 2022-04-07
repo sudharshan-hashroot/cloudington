@@ -3,12 +3,12 @@
 
 <head>
     <!-- Title -->
-    <title>Private Cloud Hosting Services - Secure Hosting | Cloudington</title>
+    <title>Private Cloud Hosting Services - Secure Hosting | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Private Cloud Hosting Services - Secure Hosting | Cloudington">
-    <meta name="description" content="Cloudington offers highly secure, customizable, and affordable managed private cloud hosting services for businesses. We also offer 24/7 expert hosting support.">
+    <meta name="title" content="Private Cloud Hosting Services - Secure Hosting | Cloudyea">
+    <meta name="description" content="Cloudyea offers highly secure, customizable, and affordable managed private cloud hosting services for businesses. We also offer 24/7 expert hosting support.">
     <meta name="keywords" content="Private Cloud Hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -59,7 +59,7 @@
                         </div>
                         <h1 class="display-4 text-white mb-4">Private Cloud Hosting Services
                         </h1>
-                        <p class=" text-white mb-4">Cloudington offers highly secure, customizable, and affordable managed private cloud hosting services to businesses of all scales. By choosing our private cloud hosting service, organizations will have complete control of their
+                        <p class=" text-white mb-4">Cloudyea offers highly secure, customizable, and affordable managed private cloud hosting services to businesses of all scales. By choosing our private cloud hosting service, organizations will have complete control of their
                             dedicated cloud environment, which can be customized as per the requirements. Our hosting services are also backed by a 24/7 support service to ensure service continuity without any issues.</p>
                     </div>
                     <a class="btn btn-light btn-wide transition-3d-hover"  >Start Now</a>

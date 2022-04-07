@@ -66,7 +66,7 @@
                             <!-- End Title -->
 
                             <!-- Text -->
-                            <p>This Privacy Policy describes how Cloudington Limited (“Cloudington,” “we,” “our” or “us”) collects, uses, and shares your personal data in connection with your use of our services, and applications (collectively, the “Services”).</p>
+                            <p>This Privacy Policy describes how Cloudyea Limited (“Cloudyea,” “we,” “our” or “us”) collects, uses, and shares your personal data in connection with your use of our services, and applications (collectively, the “Services”).</p>
                             <p>We may collect and receive information about users of our Services (“users,” “you,” or “your”) from various sources, including: (i) information you provide through your user account on the Services (your “Account”) if you register
                                 for our Services; (ii) your use of the Services; and (iii) from third-party websites, services, and partners. We recommend that you read this Privacy Policy in full to ensure you are fully informed.</p>
                             <!-- End Text -->
@@ -194,7 +194,7 @@
                                 SECURITY
                             </h3>
                             <p>
-                                Cloudington takes privacy issues seriously and wants to protect your rights. We understand and respect your concerns regarding privacy and make your online experience satisfying and safe. To do so, we employ a variety of security technologies and measures
+                                Cloudyea takes privacy issues seriously and wants to protect your rights. We understand and respect your concerns regarding privacy and make your online experience satisfying and safe. To do so, we employ a variety of security technologies and measures
                                 designed to protect information from unauthorized access, use, or disclosure. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information.
                             </p>
 
@@ -252,7 +252,7 @@
                         <div class="mb-7">
                             <h3 class="mb-3">CHILDREN’S PRIVACY
                             </h3>
-                            <p>Cloudington does not knowingly collect information from children under the age of 13, and children under 13 are prohibited from using our Services. If you learn that a child has provided us with personal information in violation
+                            <p>Cloudyea does not knowingly collect information from children under the age of 13, and children under 13 are prohibited from using our Services. If you learn that a child has provided us with personal information in violation
                                 of this Privacy Policy, you can alert us at <a href="mailto:contact@cloudyea.com">contact@cloudyea.com</a>
                             </p>
                         </div>
@@ -268,7 +268,7 @@
                         <div class="mb-7">
                             <h3 class="mb-3">INTERNATIONAL DATA TRANSFERS
                             </h3>
-                            <p>Cloudington is a global company. We may transfer personal information to countries other than the country in which the data was originally collected. These countries may not have the same data protection laws as the country
+                            <p>Cloudyea is a global company. We may transfer personal information to countries other than the country in which the data was originally collected. These countries may not have the same data protection laws as the country
                                 in which you initially provided the information. When we transfer your personal information to other countries, we will protect that information as described in this Privacy Policy.
 
                             </p>
@@ -277,7 +277,7 @@
                             <h3 class="mb-3">Contact Us </h3>
                             <p>If you have any questions or concerns about this Privacy Policy, please feel free to email us at <a href="mailto:contact@cloudyea.com">contact@cloudyea.com</a>
                             </p>
-                            <p>The data controller of your personal information is Cloudington Private Limited.
+                            <p>The data controller of your personal information is Cloudyea Private Limited.
                             </p>
                         </div>
 

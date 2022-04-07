@@ -3,12 +3,12 @@
 
 <head>
     <!-- Title -->
-    <title>Managed WordPress Cloud Hosting Services | Cloudington</title>
+    <title>Managed WordPress Cloud Hosting Services | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Managed WordPress Cloud Hosting Services | Cloudington">
-    <meta name="description" content="Cloudington provides scalable and reliable WordPress cloud hosting services. We offer a fully optimized cloud server designed to host WordPress websites and apps.">
+    <meta name="title" content="Managed WordPress Cloud Hosting Services | Cloudyea">
+    <meta name="description" content="Cloudyea provides scalable and reliable WordPress cloud hosting services. We offer a fully optimized cloud server designed to host WordPress websites and apps.">
     <meta name="keywords" content="Managed WordPress Cloud Hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -59,7 +59,7 @@
                         </div>
                         <h1 class="display-4 text-white mb-4">Managed WordPress Cloud Hosting Services
                         </h1>
-                        <p class=" text-white mb-4">Cloudington makes it easy to get an improved level of performance by hosting your website on a fully optimized cloud server that is designed to host WordPress websites. Our managed WordPress cloud hosting services are reliable,
+                        <p class=" text-white mb-4">Cloudyea makes it easy to get an improved level of performance by hosting your website on a fully optimized cloud server that is designed to host WordPress websites. Our managed WordPress cloud hosting services are reliable,
                             flexible and offer you the freedom to easily rezize your server up or down based on the business requirements. We will also ensure effective management of your cloud server and will make sure that your website is up and running
                             99.9% of the time.
                         </p>
@@ -768,7 +768,7 @@
                             </figure>
                             <h4>Reliable
                             </h4>
-                            <p class="font-size-1 text-body mb-0 ">Get managed WordPress cloud hosting service from Cloudington that offers unmatched security and guaranteed uptime.</p>
+                            <p class="font-size-1 text-body mb-0 ">Get managed WordPress cloud hosting service from Cloudyea that offers unmatched security and guaranteed uptime.</p>
                         </div>
                         <div class="card-footer border-0 pt-0 ">
 
@@ -990,7 +990,7 @@
                 <div class="card shadow-none mb-3">
                     <div class="card-header card-collapse" id="wordpressHeadingTwo">
                         <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#wordpressCollapseTwo" aria-expanded="false" aria-controls="wordpressCollapseTwo">
-                          We have a huge WordPress website. Will you be able to handle it, if we migrate our website to Cloudington?
+                          We have a huge WordPress website. Will you be able to handle it, if we migrate our website to Cloudyea?
 
 
     <span class="card-btn-toggle">

@@ -3,7 +3,7 @@
 
 <head>
     <!-- Title -->
-    <title>Cloudington</title>
+    <title>Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
@@ -2379,7 +2379,7 @@
                 <!-- Title -->
                 <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
                     <h2 class="h1">Specialized Cloud </h2>
-                    <p class="lead">Install Cloudington on your own infrastructure.</p>
+                    <p class="lead">Install Cloudyea on your own infrastructure.</p>
                 </div>
                 <!-- End Title -->
 
@@ -2598,7 +2598,7 @@
                         <!-- Title -->
                         <div class="mb-5 mb-md-7">
                             <h2 class="mb-3">The powerful and flexible theme for all kinds of businesses</h2>
-                            <p>Whether you're creating a subscription service, an on-demand marketplace, an e-commerce store, or a portfolio showcase, Cloudington's unmatched functionality help you create the best possible product for your users.</p>
+                            <p>Whether you're creating a subscription service, an on-demand marketplace, an e-commerce store, or a portfolio showcase, Cloudyea's unmatched functionality help you create the best possible product for your users.</p>
                         </div>
                         <!-- End Title -->
 
@@ -2828,7 +2828,7 @@
                         <a class="w-100 mb-3 mb-lg-auto"   aria-label="Front">
                             <img    class=" brand" src="./assets/svg/logos/cloog-new.svg" alt="Logo">
                         </a>
-                        <p class="small text-muted mb-0">© Cloudington. 2020.</p>
+                        <p class="small text-muted mb-0">© Cloudyea. 2020.</p>
                     </div>
                 </div>
 
@@ -2894,7 +2894,7 @@
                                     <div class="card">
                                         <!-- Body -->
                                         <div class="card-body">
-                                            <h5>Cloudington available in</h5>
+                                            <h5>Cloudyea available in</h5>
 
                                             <div class="row">
                                                 <div class="col-6">

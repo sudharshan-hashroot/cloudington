@@ -3,11 +3,11 @@
 
 <head>
     <!-- Title -->
-    <title>Managed Drupal Hosting - Fact & Secure Hosting | Cloudington</title>
+    <title>Managed Drupal Hosting - Fact & Secure Hosting | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Managed Drupal Hosting - Fact & Secure Hosting | Cloudington">
+    <meta name="title" content="Managed Drupal Hosting - Fact & Secure Hosting | Cloudyea">
     <meta name="description" content="Host your Drupal website on secure and fully optimized cloud servers. Our Drupal hosting services are backed by 24/7 dedicated support and guaranteed uptime.">
     <meta name="keywords" content="Managed Drupal Hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -730,7 +730,7 @@
         <div class="container space-2 ">
             <!-- Title -->
             <div class="w-md-80 w-lg-90 text-center mx-md-auto mb-5 mb-md-9 ">
-                <h2 class="h1 ">Why Choose Cloudington Managed Drupal Cloud Service?
+                <h2 class="h1 ">Why Choose Cloudyea Managed Drupal Cloud Service?
                 </h2>
 
             </div>
@@ -806,7 +806,7 @@
                                 </span>
                             </figure>
                             <h4>Fully Managed</h4>
-                            <p class="font-size-1 text-body mb-0 ">Your cloud servers are completely managed by Cloudington's team of experts. We ensure the optimal performance of your hosting environment.</p>
+                            <p class="font-size-1 text-body mb-0 ">Your cloud servers are completely managed by Cloudyea's team of experts. We ensure the optimal performance of your hosting environment.</p>
                         </div>
                         <div class="card-footer border-0 pt-0 ">
 
@@ -865,7 +865,7 @@
                 <!-- Title -->
                 <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9 ">
                     <h2 class="text-white ">Enjoy Uninterrupted Hosting Experience</h2>
-                    <p class="text-white-70 ">Choose Cloudington's managed Drupal hosting service to enjoy an uninterrupted hosting experience. We offer secure and reliable cloud hosting services for businesses of all scales at an affordable price. Our talented team of hosting
+                    <p class="text-white-70 ">Choose Cloudyea's managed Drupal hosting service to enjoy an uninterrupted hosting experience. We offer secure and reliable cloud hosting services for businesses of all scales at an affordable price. Our talented team of hosting
                         experts are available round the clock to support you on any hosting-related issues.
                     </p>
                     <a class="btn btn-rounded btn-light transition-3d-hover mb-3">Chat with Us</a>
@@ -977,7 +977,7 @@
                     </div>
                     <div id="accountCollapseOne" class="collapse" aria-labelledby="accountHeadingOne" data-parent="#accountAccordion">
                         <div class="card-body px-0">
-                            <p>Yes, We will help you migrate websites of all sizes from the existing service providers to Cloudington.
+                            <p>Yes, We will help you migrate websites of all sizes from the existing service providers to Cloudyea.
                             </p>
                         </div>
                     </div>
@@ -988,7 +988,7 @@
                 <div class="card shadow-none mb-3">
                     <div class="card-header card-collapse" id="accountHeadingTwo">
                         <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#accountCollapseTwo" aria-expanded="false" aria-controls="accountCollapseTwo">
-                          How secure is my Drupal website if I host with Cloudington?
+                          How secure is my Drupal website if I host with Cloudyea?
 
 
         <span class="card-btn-toggle">
@@ -1010,7 +1010,7 @@
                 <div class="card shadow-none mb-3">
                     <div class="card-header card-collapse" id="accountHeadingThree">
                         <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#accountCollapseThree" aria-expanded="false" aria-controls="accountCollapseThree">
-                          Why do I need Cloudington's managed Drupal cloud services if I can buy cloud servers by myself?
+                          Why do I need Cloudyea's managed Drupal cloud services if I can buy cloud servers by myself?
 
 
         <span class="card-btn-toggle">

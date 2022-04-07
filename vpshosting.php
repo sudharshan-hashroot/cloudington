@@ -4,12 +4,12 @@
 
 <head>
     <!-- Title -->
-    <title>Managed VPS Hosting Service Provider | Cloudington</title>
+    <title>Managed VPS Hosting Service Provider | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Managed VPS Hosting Service Provider | Cloudington">
-    <meta name="description" content="Cloudington offers scalable and secured managed VPS hosting services to customers across the globe. Get unmatched server performance and guaranteed uptime.">
+    <meta name="title" content="Managed VPS Hosting Service Provider | Cloudyea">
+    <meta name="description" content="Cloudyea offers scalable and secured managed VPS hosting services to customers across the globe. Get unmatched server performance and guaranteed uptime.">
     <meta name="keywords" content="Managed VPS Hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -484,7 +484,7 @@
                             <h1 class="text-white mb-3">
                                 Get guaranteed uptime and unmatched performance with our Managed VPS hosting Services
                             </h1>
-                            <p class="text-white-70">Cloudington is the most trusted managed hosting service provider that offers services at an affordable price. Our managed VPS hosting combines the best of both shared hosting and dedicated hosting. We will also take care of
+                            <p class="text-white-70">Cloudyea is the most trusted managed hosting service provider that offers services at an affordable price. Our managed VPS hosting combines the best of both shared hosting and dedicated hosting. We will also take care of
                                 the complete management of your server, while you can focus your time on driving business growth. Our team of VPS hosting experts will be available round the clock to assist you.
                             </p>
                         </div>

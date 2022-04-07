@@ -3,11 +3,11 @@
 
 <head>
     <!-- Title -->
-    <title>Hosted OX App Suite - Open-Xchange App Suite | Cloudington </title>
+    <title>Hosted OX App Suite - Open-Xchange App Suite | Cloudyea </title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Hosted OX App Suite - Open-Xchange App Suite | Cloudington">
+    <meta name="title" content="Hosted OX App Suite - Open-Xchange App Suite | Cloudyea">
     <meta name="description" content="Our hosted OX App suite plan includes webmail service, cloud storage, OX calendars access, and much more. Choose the best OX App Suite plan that suits your needs.">
     <meta name="keywords" content="Hosted OX App Suite">
 

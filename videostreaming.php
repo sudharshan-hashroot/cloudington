@@ -3,11 +3,11 @@
 
 <head>
     <!-- Title -->
-    <title>Video Stream Hosting - Video Hosting Plans | Cloudington</title>
+    <title>Video Stream Hosting - Video Hosting Plans | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Video Stream Hosting - Video Hosting Plans | Cloudington">
+    <meta name="title" content="Video Stream Hosting - Video Hosting Plans | Cloudyea">
     <meta name="description"
         content="Deliver exceptional quality video streams to millions of audiences worldwide with our affordable video stream hosting service. We guarantee a 99.9% network uptime.">
     <meta name="keywords" content="Video Stream Hosting">
@@ -64,7 +64,7 @@
                         <h1 class="display-4 text-white mb-4">Video Stream Hosting Service
                         </h1>
                         <p class=" text-white mb-4">
-                            Make use of Cloudington's video stream hosting service to start delivering exceptional
+                            Make use of Cloudyea's video stream hosting service to start delivering exceptional
                             quality video streams to millions of audiences all over the world. We offer highly secure,
                             reliable video stream hosting services to content providers at an affordable
                             price. Low latency, 99.9% guaranteed network uptime are some of the benefits content provide
@@ -777,7 +777,7 @@
         <div class="container space-2 ">
             <!-- Title -->
             <div class="w-md-80 w-lg-90 text-center mx-md-auto mb-5 mb-md-9 ">
-                <h2 class="h1 ">Why Choose Cloudington for Video Stream Hosting?
+                <h2 class="h1 ">Why Choose Cloudyea for Video Stream Hosting?
                 </h2>
 
             </div>

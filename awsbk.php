@@ -937,7 +937,7 @@
                                 <img    class=" img-fluid " src="./assets/svg/icons/icon-3.svg " alt="SVG ">
                             </figure>
                             <h4>Managed Website Migration</h4>
-                            <p class="font-size-1 text-body mb-0 ">Our cloud experts will assist you in planning and migrating the website from the existing environment to the managed AWS cloud servers. Partner with Cloudington to enjoy a hassle-free and seamless transition to the cloud.</p>
+                            <p class="font-size-1 text-body mb-0 ">Our cloud experts will assist you in planning and migrating the website from the existing environment to the managed AWS cloud servers. Partner with Cloudyea to enjoy a hassle-free and seamless transition to the cloud.</p>
                         </div>
                         <div class="card-footer border-0 pt-0 ">
 
@@ -1009,7 +1009,7 @@
                 <!-- Title -->
                 <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9 ">
                     <h2 class="text-white ">Why Choose Our Managed AWS Cloud Hosting Service? </h2>
-                    <p class="text-white-70 ">Get guaranteed uptime, unmatched performance and reliable security with Cloudington's managed AWS hosting service.
+                    <p class="text-white-70 ">Get guaranteed uptime, unmatched performance and reliable security with Cloudyea's managed AWS hosting service.
                     </p>
                 </div>
                 <!-- End Title -->
@@ -1333,7 +1333,7 @@
                         <a class="w-100 mb-3 mb-lg-auto"   aria-label="Front">
                             <img    class=" brand" src="./assets/img/logos/clogo.png" alt="Logo">
                         </a>
-                        <p class="small text-muted mb-0">© Cloudington. 2020.</p>
+                        <p class="small text-muted mb-0">© Cloudyea. 2020.</p>
                     </div>
                 </div>
 
@@ -1399,7 +1399,7 @@
                                     <div class="card">
                                         <!-- Body -->
                                         <div class="card-body">
-                                            <h5>Cloudington available in</h5>
+                                            <h5>Cloudyea available in</h5>
 
                                             <div class="row">
                                                 <div class="col-6">

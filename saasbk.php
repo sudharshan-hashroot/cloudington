@@ -4,12 +4,12 @@
 <head>
     <!-- Title -->
     <title>
-        Fully Managed and Scalable SaaS Hosting Services | Cloudington
+        Fully Managed and Scalable SaaS Hosting Services | Cloudyea
     </title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8" />
-    <meta name="title" content="Fully Managed and Scalable SaaS Hosting Services | Cloudington" />
+    <meta name="title" content="Fully Managed and Scalable SaaS Hosting Services | Cloudyea" />
     <meta name="description" content="Get your application deployed instantly and easily with the help of our managed SaaS hosting services. Our hosting experts are available 24/7 to assist you." />
     <meta name="keywords" content="SaaS Hosting Service" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -71,7 +71,7 @@
                         </div>
                         <h1 class="display-4 text-white mb-4">SaaS Hosting Services</h1>
                         <p class="text-white mb-4">
-                            Software as a Service (SaaS) hosting is a subscription-based model in which the hosting provider hosts your application on the cloud and makes it available to the end-users anywhere in the world. Cloudington is a hosting service provider, that offers
+                            Software as a Service (SaaS) hosting is a subscription-based model in which the hosting provider hosts your application on the cloud and makes it available to the end-users anywhere in the world. Cloudyea is a hosting service provider, that offers
                             fully managed and scalable SaaS hosting services to businesses of all scales. Choosing our SaaS hosting services, lets you stay focused on growing your business while we will manage all your hosting-related needs.
                         </p>
                     </div>
@@ -923,7 +923,7 @@
                             </figure>
                             <h4>Guaranteed Uptime</h4>
                             <p class="font-size-1 text-body mb-0">
-                                Cloudington ensures to offer uninterrupted SaaS hosting services. We guarantee a 99.99% uptime SLA.
+                                Cloudyea ensures to offer uninterrupted SaaS hosting services. We guarantee a 99.99% uptime SLA.
                             </p>
                         </div>
                         <div class="card-footer border-0 pt-0"></div>
@@ -965,7 +965,7 @@
                 <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
                     <h2 class="text-white">Fast and Secure Migration</h2>
                     <p class="text-white-70">
-                        Planning to migrate your application to Cloudington? Our team of migration experts will ensure a smooth and easy migration of your application from the existing hosting environment to ours. Migrate your application to Cloudinton to enjoy an uninterrupted
+                        Planning to migrate your application to Cloudyea? Our team of migration experts will ensure a smooth and easy migration of your application from the existing hosting environment to ours. Migrate your application to Cloudinton to enjoy an uninterrupted
                         hosting experience.
                     </p>
                     <a class="btn btn-rounded btn-light transition-3d-hover mb-3">Chat with Us</a
@@ -1290,7 +1290,7 @@
                   bg-white
                   px-0
                 " href="javascript:;" role="button" data-toggle="collapse" data-target="#saasCollapseTwo" aria-expanded="false" aria-controls="saasCollapseTwo">
-                How secure will our SaaS application be with Cloudington?
+                How secure will our SaaS application be with Cloudyea?
                 <span class="card-btn-toggle">
                   <span class="card-btn-toggle-default">&plus;</span>
                   <span class="card-btn-toggle-active">&minus;</span>

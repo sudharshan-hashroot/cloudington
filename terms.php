@@ -68,7 +68,7 @@
                             <!-- End Title -->
 
                             <!-- Text -->
-                            <p>Cloudington agrees to provide all the following hosting services:
+                            <p>Cloudyea agrees to provide all the following hosting services:
                             </p>
                             <ul>
                                 <li>Help set up a cloud hosting environment and offer 24/7 support to customers on all hosting related services.
@@ -111,7 +111,7 @@
 
                             <!-- End Text -->
                             <div>
-                                <p>Cloudington reserves the right to change pricing terms on any accounts and plans/services at any time. New accounts for current customers are subject to the current fees at the time the new account is opened.
+                                <p>Cloudyea reserves the right to change pricing terms on any accounts and plans/services at any time. New accounts for current customers are subject to the current fees at the time the new account is opened.
 
                                 </p>
                             </div>
@@ -129,7 +129,7 @@
 
                             <!-- End Text -->
                             <div>
-                                <p>All accounts are set up on a pre-pay basis. It is the customer's responsibility to inform Cloudington of changes in credit card type, PayPal email address or expiration date to their credit card. Credit card accounts are
+                                <p>All accounts are set up on a pre-pay basis. It is the customer's responsibility to inform Cloudyea of changes in credit card type, PayPal email address or expiration date to their credit card. Credit card accounts are
                                     billed once monthly. If your credit card is declined, you will have seven days to make the payment, after these seven days, your services will be placed on hold until services are paid for.
                                 </p>
                             </div>
@@ -146,7 +146,7 @@
 
                             <!-- End Text -->
                             <div>
-                                <p>Cloudington offers a satisfaction guarantee on all our hosting services. If you are not completely satisfied with our services within the first 7 days of using our service, you will be given a 100% refund of the amount
+                                <p>Cloudyea offers a satisfaction guarantee on all our hosting services. If you are not completely satisfied with our services within the first 7 days of using our service, you will be given a 100% refund of the amount
                                     paid for that service.
                                 </p>
                             </div>
@@ -218,7 +218,7 @@
 
                             <!-- End Text -->
                             <div>
-                                <p>Abusive material against Cloudington's employees will not be permitted. Harassment and using abusive words through phone, e-mail, chat or any other means of electronic communications is prohibited. Cloudington reserves
+                                <p>Abusive material against Cloudyea's employees will not be permitted. Harassment and using abusive words through phone, e-mail, chat or any other means of electronic communications is prohibited. Cloudyea reserves
                                     the right to, without notice, suspend or terminate the user’s account for any serious AUP violations.
                                 </p>
                             </div>
@@ -239,8 +239,8 @@
                             <!-- End Text -->
                             <div>
                                 <p>We value the effort of making a business successful and the continued handwork of several years. We have a very good reputation among hosting companies around the globe and are trying our maximum to retain that goodwill
-                                    with utmost care. And so, we do not tolerate the posting of negative feedback about Cloudington on any public forum before making use of our hosting services. We have the utmost respect for all of our clients and do
-                                    anything and everything possible to keep all of our clients satisfied. All we ask is to discuss the issue that you faced with Cloudington in the Quality/Escalation Department before going to any public forums. We would
+                                    with utmost care. And so, we do not tolerate the posting of negative feedback about Cloudyea on any public forum before making use of our hosting services. We have the utmost respect for all of our clients and do
+                                    anything and everything possible to keep all of our clients satisfied. All we ask is to discuss the issue that you faced with Cloudyea in the Quality/Escalation Department before going to any public forums. We would
                                     like to maintain transparency in our operations and we have always tried our level best to provide the extra mile to customers. </p>
                             </div>
                         </div>

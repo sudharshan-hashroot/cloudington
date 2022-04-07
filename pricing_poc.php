@@ -3,7 +3,7 @@
 
 <head>
     <!-- Title -->
-    <title>Create a Product | Cloudington</title>
+    <title>Create a Product | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">

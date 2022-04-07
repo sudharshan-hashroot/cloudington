@@ -3,11 +3,11 @@
 
 <head>
     <!-- Title -->
-    <title>WooCommerce Hosting - Host your Store Online | Cloudington</title>
+    <title>WooCommerce Hosting - Host your Store Online | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="WooCommerce Hosting - Host your Store Online | Cloudington">
+    <meta name="title" content="WooCommerce Hosting - Host your Store Online | Cloudyea">
     <meta name="description" content="Choose any of our WooCommerce hosting plans to get your WooCommerce server deployed and optimized instantly. We offer reliable and affordable hosting services.">
     <meta name="keywords" content="WooCommerce Hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -1063,7 +1063,7 @@
                 <div class="card shadow-none mb-3">
                     <div class="card-header card-collapse" id="basicsHeadingFour">
                         <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#basicsCollapseFour" aria-expanded="false" aria-controls="basicsCollapseFour">
-                            Does Cloudington offer any custom WooCommerce hosting packages?
+                            Does Cloudyea offer any custom WooCommerce hosting packages?
 
   
             <span class="card-btn-toggle">

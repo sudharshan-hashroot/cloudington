@@ -4,11 +4,11 @@
 
 <head>
     <!-- Title -->
-    <title>Best Managed Magento Hosting Services | Cloudington</title>
+    <title>Best Managed Magento Hosting Services | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Best Managed Magento Hosting Services | Cloudington">
+    <meta name="title" content="Best Managed Magento Hosting Services | Cloudyea">
     <meta name="description" content="Get your site up and running instantly with our managed Magento hosting services. We offer 24/7 dedicated support and help achieve optimal server performance.">
     <meta name="keywords" content="Managed Magento Hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -266,7 +266,7 @@
                                 Magento Hosting on Cloud Made Easy and Affordable
 
                             </h1>
-                            <p class="text-white-70">When it comes to hosting your Magento website, Cloudington is the most trusted managed Magento hosting service provider you can always rely upon. Choose any of our Magento hosting plans, and get your Magento server deployed
+                            <p class="text-white-70">When it comes to hosting your Magento website, Cloudyea is the most trusted managed Magento hosting service provider you can always rely upon. Choose any of our Magento hosting plans, and get your Magento server deployed
                                 instantly without any difficulties. Our hosting services are backed by a 24/7 support service that ensures to keep your Magento store up and running without any interruptions.
                             </p>
                         </div>
@@ -472,7 +472,7 @@
             <div class="container space-2 ">
                 <div class="mb-5 ">
                     <h2 class="text-white ">Smooth & Secure Migration of Your Magento Store </h2>
-                    <p class="text-white ">Move your Magento store from your existing provider to Cloudington and enjoy a powerful hosting experience. With a host of features to offer, you are guaranteed to get the best performance for your online store. Our experts can assist
+                    <p class="text-white ">Move your Magento store from your existing provider to Cloudyea and enjoy a powerful hosting experience. With a host of features to offer, you are guaranteed to get the best performance for your online store. Our experts can assist
                         you to ensure a smooth and easy transition of your store to the cloud.
                     </p>
                 </div>
@@ -644,7 +644,7 @@
                 <div class="card shadow-none mb-3">
                     <div class="card-header card-collapse" id="basicsHeadingOne">
                         <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#basicsCollapseOne" aria-expanded="false" aria-controls="basicsCollapseOne">
-                            What is Cloudington's Magento Hosting?                  
+                            What is Cloudyea's Magento Hosting?                  
   
             <span class="card-btn-toggle">
               <span class="card-btn-toggle-default">+</span>
@@ -668,7 +668,7 @@
                 <div class="card shadow-none mb-3">
                     <div class="card-header card-collapse" id="basicsHeadingThree">
                         <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#basicsCollapseThree" aria-expanded="false" aria-controls="basicsCollapseThree">
-                            Can Cloudington help me migrate our online store from an existing
+                            Can Cloudyea help me migrate our online store from an existing
                             service provider?                            
             <span class="card-btn-toggle">
               <span class="card-btn-toggle-default">+</span>
@@ -678,7 +678,7 @@
                     </div>
                     <div id="basicsCollapseThree" class="collapse" aria-labelledby="basicsHeadingThree" data-parent="#basicsAccordion">
                         <div class="card-body px-0">
-                            <p>Yes. Our experts are available 24/7 to assist you and to ensure a smooth and seamless transition of your online store from the existing host to Cloudington.
+                            <p>Yes. Our experts are available 24/7 to assist you and to ensure a smooth and seamless transition of your online store from the existing host to Cloudyea.
                             </p>
 
                         </div>

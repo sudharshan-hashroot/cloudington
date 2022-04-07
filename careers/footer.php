@@ -6,7 +6,7 @@
                         <a class="w-100 mb-3 mb-lg-auto"   aria-label="Front">
                             <img    class=" brand" src="../assets/svg/logos/cloog-new.svg" alt="Logo">
                         </a>
-                        <p class="small text-muted mb-0">© Cloudington. 2020.</p>
+                        <p class="small text-muted mb-0">© Cloudyea. 2020.</p>
                     </div>
                 </div>
 
@@ -72,7 +72,7 @@
                                     <div class="card">
                                         <!-- Body -->
                                         <div class="card-body">
-                                            <h5>Cloudington available in</h5>
+                                            <h5>Cloudyea available in</h5>
 
                                             <div class="row">
                                                 <div class="col-6">

@@ -3,12 +3,12 @@
 
 <head>
     <!-- Title -->
-    <title>Business Email Hosting - Get Professional Email | Cloudington</title>
+    <title>Business Email Hosting - Get Professional Email | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Business Email Hosting - Get Professional Email | Cloudington">
-    <meta name="description" content="Get an ad-free, feature-rich, and secure email for your business. Set up a custom domain name email address with Cloudington's business email hosting services.">
+    <meta name="title" content="Business Email Hosting - Get Professional Email | Cloudyea">
+    <meta name="description" content="Get an ad-free, feature-rich, and secure email for your business. Set up a custom domain name email address with Cloudyea's business email hosting services.">
     <meta name="keywords" content="Business Email Hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -59,7 +59,7 @@
                         </div>
                         <h1 class="display-4 text-white mb-4">Business Email Hosting
                         </h1>
-                        <p class=" text-white mb-4">Add more credibility to the emails you sent to your customers and communities by using a professional email address. Cloudington offers business email hosting services that allow organizations to set up custom domain names for
+                        <p class=" text-white mb-4">Add more credibility to the emails you sent to your customers and communities by using a professional email address. Cloudyea offers business email hosting services that allow organizations to set up custom domain names for
                             their email address. Choose our services to get an ad-free, feature-rich, and highly secure email for your business.
                         </p>
                     </div>
@@ -903,7 +903,7 @@
                 <!-- Title -->
                 <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9 ">
                     <h2 class="text-white ">Easy Migration from Existing Service </h2>
-                    <p class="text-white-70 ">Want to migrate email from your existing service provider to Cloudington? Our team of experts can help you to migrate your email, calendar data, contacts, and much more smoothly and without any data loss.
+                    <p class="text-white-70 ">Want to migrate email from your existing service provider to Cloudyea? Our team of experts can help you to migrate your email, calendar data, contacts, and much more smoothly and without any data loss.
                     </p>
                     <a class="btn btn-rounded btn-light transition-3d-hover mb-3">Chat with Us</a>
                 </div>
@@ -1025,7 +1025,7 @@
                 <div class="card shadow-none mb-3">
                     <div class="card-header card-collapse" id="businessHeadingTwo">
                         <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#businessCollapseTwo" aria-expanded="false" aria-controls="businessCollapseTwo">
-                              Can you help us migrate our business email accounts from the existing hosting provider to Cloudington?
+                              Can you help us migrate our business email accounts from the existing hosting provider to Cloudyea?
 
 
 
@@ -1037,7 +1037,7 @@
                     </div>
                     <div id="businessCollapseTwo" class="collapse" aria-labelledby="businessHeadingTwo" data-parent="#businessAccordion">
                         <div class="card-body px-0">
-                            <p>Yes! Our team of experts is always ready to help you migrate your email accounts, calendar data, and much more from the existing service provider to Cloudington.
+                            <p>Yes! Our team of experts is always ready to help you migrate your email accounts, calendar data, and much more from the existing service provider to Cloudyea.
                             </p>
                         </div>
                     </div>

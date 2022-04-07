@@ -3,11 +3,11 @@
 
 <head>
     <!-- Title -->
-    <title>Dedicated Gaming Server Hosting Services | Cloudington</title>
+    <title>Dedicated Gaming Server Hosting Services | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Dedicated Gaming Server Hosting Services | Cloudington">
+    <meta name="title" content="Dedicated Gaming Server Hosting Services | Cloudyea">
     <meta name="description" content="Get affordable dedicated gaming server hosting services. Build and run games on highly secure and scalable cloud servers. Get 99.9% guaranteed network uptime.">
     <meta name="keywords" content="Gaming Server Hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -59,7 +59,7 @@
                         </div>
                         <h1 class="display-4 text-white mb-4">Gaming Cloud Server Hosting
                         </h1>
-                        <p class=" text-white mb-4">Cloudington offers game hosting services that make it easy for organizations to build and run games on highly secure cloud servers at an affordable price. Our gaming cloud servers are completely optimized for gaming hosting and
+                        <p class=" text-white mb-4">Cloudyea offers game hosting services that make it easy for organizations to build and run games on highly secure cloud servers at an affordable price. Our gaming cloud servers are completely optimized for gaming hosting and
                             will ensure you have the best environment that offers unmatched performance. You can even easily scale your server resources up and down based on the changing demands.</p>
                     </div>
                     <a class="btn btn-light btn-wide transition-3d-hover">Start Now</a>

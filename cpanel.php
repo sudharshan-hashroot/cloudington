@@ -3,11 +3,11 @@
 
 <head>
     <!-- Title -->
-    <title>cPanel Hosting Service - Fast & Secure Hosting | Cloudington</title>
+    <title>cPanel Hosting Service - Fast & Secure Hosting | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="cPanel Hosting Service - Fast & Secure Hosting | Cloudington">
+    <meta name="title" content="cPanel Hosting Service - Fast & Secure Hosting | Cloudyea">
     <meta name="description" content="Our cPanel hosting service comes with a host of features for effective hosting and management of your website.Our services are backed by 24/7 dedicated support.">
     <meta name="keywords" content="cPanel Hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -915,7 +915,7 @@
                 <!-- Title -->
                 <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9 ">
                     <h2 class="text-white ">Keep your Website Up and Running 24/7</h2>
-                    <p class="text-white-70 ">Cloudington has got you covered with our affordable and reliable cPanel cloud hosting service. By hosting with us, you can rest assured that your website will be live and available for your users 24/7 without any issues and unplanned
+                    <p class="text-white-70 ">Cloudyea has got you covered with our affordable and reliable cPanel cloud hosting service. By hosting with us, you can rest assured that your website will be live and available for your users 24/7 without any issues and unplanned
                         downtime.
                     </p>
                     <a   class="btn btn-rounded btn-light transition-3d-hover mb-3">Chat with Us</a>
@@ -1041,7 +1041,7 @@
                 <div class="card shadow-none mb-3">
                     <div class="card-header card-collapse" id="basicsHeadingThree">
                         <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#basicsCollapseThree" aria-expanded="false" aria-controls="basicsCollapseThree">
-                            How safe will my website be If I host with Cloudington?  
+                            How safe will my website be If I host with Cloudyea?  
             <span class="card-btn-toggle">
               <span class="card-btn-toggle-default">+</span>
               <span class="card-btn-toggle-active">−</span>
@@ -1050,7 +1050,7 @@
                     </div>
                     <div id="basicsCollapseThree" class="collapse" aria-labelledby="basicsHeadingThree" data-parent="#basicsAccordion">
                         <div class="card-body px-0">
-                            <p>Your website is completely safe with Cloudington. We continuously monitor your cloud server for any vulnerabilities or issues and get them resolved instantly. We even perform regular data backups and follow some of the best
+                            <p>Your website is completely safe with Cloudyea. We continuously monitor your cloud server for any vulnerabilities or issues and get them resolved instantly. We even perform regular data backups and follow some of the best
                                 security practices to keep your website secure and protected.
                             </p>
 
@@ -1063,7 +1063,7 @@
                 <div class="card shadow-none mb-3">
                     <div class="card-header card-collapse" id="basicsHeadingFour">
                         <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#basicsCollapseFour" aria-expanded="false" aria-controls="basicsCollapseFour">
-                            What is the uptime offered with Cloudington's cPanel cloud hosting service?
+                            What is the uptime offered with Cloudyea's cPanel cloud hosting service?
 
   
             <span class="card-btn-toggle">
@@ -1085,7 +1085,7 @@
                 <div class="card shadow-none mb-3">
                     <div class="card-header card-collapse" id="basicsHeadingFive">
                         <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#basicsCollapseFive" aria-expanded="false" aria-controls="basicsCollapseFive">
-                            Does Cloudington offer hosting support? If yes, how good is your support service?
+                            Does Cloudyea offer hosting support? If yes, how good is your support service?
   
             <span class="card-btn-toggle">
               <span class="card-btn-toggle-default">+</span>

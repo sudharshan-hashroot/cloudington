@@ -3,11 +3,11 @@
 
 <head>
     <!-- Title -->
-    <title>Fully Managed Moodle Hosting with 24/7 Support | Cloudington</title>
+    <title>Fully Managed Moodle Hosting with 24/7 Support | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Fully Managed Moodle Hosting with 24/7 Support | Cloudington">
+    <meta name="title" content="Fully Managed Moodle Hosting with 24/7 Support | Cloudyea">
     <meta name="description" content="Make use of our Moodle hosting service to offer a unique and personalized learning experience to your learners. Get affordable Moodle LMS hosting service.">
     <meta name="keywords" content="Moodle Hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -60,7 +60,7 @@
                         <h1 class="display-4 text-white mb-4">Managed Moodle LMS Hosting
 
                         </h1>
-                        <p class=" text-white mb-4">Give a unique and personalized learning experience to your learners by making use of Cloudington's Moodle LMS hosting. We offer reliable and fully managed cloud-based Moodle LMS hosting to our customers at an affordable price.
+                        <p class=" text-white mb-4">Give a unique and personalized learning experience to your learners by making use of Cloudyea's Moodle LMS hosting. We offer reliable and fully managed cloud-based Moodle LMS hosting to our customers at an affordable price.
                             Our hosting cloud servers are specifically designed and optimized to host Moodle LMS platform. Our support team is also available 24/7 to offer round-the-clock support service and get all your issues and concerns resolved instantly.
                         </p>
                     </div>
@@ -1031,7 +1031,7 @@
                 <div class="card shadow-none mb-3">
                     <div class="card-header card-collapse" id="basicsHeadingThree">
                         <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#basicsCollapseThree" aria-expanded="false" aria-controls="basicsCollapseThree">
-                            Why do I need Cloudington's managed Moodle hosting service, if I can host my own Moodle site?
+                            Why do I need Cloudyea's managed Moodle hosting service, if I can host my own Moodle site?
 
   
             <span class="card-btn-toggle">
@@ -1043,7 +1043,7 @@
                     <div id="basicsCollapseThree" class="collapse" aria-labelledby="basicsHeadingThree" data-parent="#basicsAccordion">
                         <div class="card-body px-0">
                             <p>Hosting your own Moodle website is not an easy task. You need to have a webserver with a supported database for that. Even after setting it up, you need to continuously monitor server resource usage and optimize it accordingly.
-                                However, Cloudington makes it simple for you by offering you a fully optimized Moodle hosting service at a competitive price. By choosing our service, you don't have to worry about Moodle hosting and its management. Our
+                                However, Cloudyea makes it simple for you by offering you a fully optimized Moodle hosting service at a competitive price. By choosing our service, you don't have to worry about Moodle hosting and its management. Our
                                 experts will take care of your Moodle hosting-related needs, while you can focus on developing training materials. </p>
 
                         </div>

@@ -3,11 +3,11 @@
 
 <head>
     <!-- Title -->
-    <title>Managed AWS Cloud Hosting - AWS Migration | Cloudington</title>
+    <title>Managed AWS Cloud Hosting - AWS Migration | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Managed AWS Cloud Hosting  - AWS Migration | Cloudington">
+    <meta name="title" content="Managed AWS Cloud Hosting  - AWS Migration | Cloudyea">
     <meta name="description" content="Host your website and application on AWS cloud servers with ease. Get the best out of AWS cloud with the help of our fully managed AWS cloud hosting services.">
     <meta name="keywords" content="Managed AWS Cloud Hosting">
 
@@ -619,7 +619,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/us.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">USA</a>
+                                    USA
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">US West</span>
 
@@ -642,7 +642,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/us.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">USA</a>
+                                    USA
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Northern California</span>
 
@@ -665,7 +665,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/us.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">USA</a>
+                                    USA
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Oregon</span>
 
@@ -688,7 +688,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/us.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">USA</a>
+                                    USA
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Ohio</span>
 
@@ -711,7 +711,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/us.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">USA</a>
+                                    USA
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">US East</span>
 
@@ -734,7 +734,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/us.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">USA</a>
+                                    USA
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Northern Virginia</span>
 
@@ -757,7 +757,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/ca.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Canada</a>
+                                    Canada
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Central</span>
 
@@ -780,7 +780,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/br.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Brazil</a>
+                                    Brazil
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">SãoPaulo</span>
 
@@ -803,7 +803,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/se.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Sweden</a>
+                                    Sweden
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Stockholm</span>
 
@@ -826,7 +826,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/ie.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Ireland</a>
+                                    Ireland
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Ireland</span>
 
@@ -849,7 +849,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/gb.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">UK</a>
+                                    UK
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">London</span>
 
@@ -872,7 +872,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/es.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Spain</a>
+                                    Spain
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Spain</span>
 
@@ -895,7 +895,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/fr.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">France</a>
+                                    France
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Paris</span>
 
@@ -918,7 +918,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/it.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Italy</a>
+                                    Italy
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Milan </span>
 
@@ -941,7 +941,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/ch.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Switzerland</a>
+                                    Switzerland
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Switzerland</span>
 
@@ -964,7 +964,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/de.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Germany</a>
+                                    Germany
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Frankfruit</span>
 
@@ -987,7 +987,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/sd.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">South Africa</a>
+                                    South Africa
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Cape Town</span>
 
@@ -1010,7 +1010,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/il.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Israel</a>
+                                    Israel
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Israel</span>
 
@@ -1033,7 +1033,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/bh.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Bahrain</a>
+                                    Bahrain
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Bahrain</span>
 
@@ -1056,7 +1056,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/ae.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">UAE</a>
+                                    UAE
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Dubai</span>
 
@@ -1079,7 +1079,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/in.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">India</a>
+                                    India
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Mumbai</span>
 
@@ -1102,7 +1102,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/in.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">India</a>
+                                    India
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Hyderabad</span>
 
@@ -1125,7 +1125,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/cn.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">China</a>
+                                    China
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Beijing</span>
 
@@ -1148,7 +1148,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/cn.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">China</a>
+                                    China
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Ningxia</span>
 
@@ -1171,7 +1171,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/kr.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Korea</a>
+                                    Korea
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Seoul</span>
 
@@ -1194,7 +1194,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/hk.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Hong Kong</a>
+                                    Hong Kong
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Hong Kong SAR</span>
 
@@ -1217,7 +1217,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/jp.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Japan</a>
+                                    Japan
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Osaka</span>
 
@@ -1240,7 +1240,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/jp.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Japan</a>
+                                    Japan
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Tokyo</span>
 
@@ -1263,7 +1263,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/sg.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Singapore</a>
+                                    Singapore
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Singapore</span>
 
@@ -1286,7 +1286,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/id.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Indonesia</a>
+                                    Indonesia
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Jakarta</span>
 
@@ -1309,7 +1309,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/au.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Australia</a>
+                                    Australia
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Sydney</span>
 
@@ -1332,7 +1332,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./node_modules/flag-icon-css/flags/4x3/au.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Australia</a>
+                                    Australia
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Melbourne</span>
 
@@ -1431,7 +1431,7 @@
                                 </span>
                             </figure>
                             <h4>Managed Website Migration</h4>
-                            <p class="font-size-1 text-body mb-0 ">Our cloud experts will assist you in planning and migrating the website from the existing environment to the managed AWS cloud servers. Partner with Cloudington to enjoy a hassle-free and seamless transition to the cloud.</p>
+                            <p class="font-size-1 text-body mb-0 ">Our cloud experts will assist you in planning and migrating the website from the existing environment to the managed AWS cloud servers. Partner with Cloudyea to enjoy a hassle-free and seamless transition to the cloud.</p>
                         </div>
                         <div class="card-footer border-0 pt-0 ">
 
@@ -1509,7 +1509,7 @@
                 <!-- Title -->
                 <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9 ">
                     <h2 class="text-white ">Why Choose Our Managed AWS Cloud Hosting Service? </h2>
-                    <p class="text-white-70 ">Get guaranteed uptime, unmatched performance and reliable security with Cloudington's managed AWS hosting service.
+                    <p class="text-white-70 ">Get guaranteed uptime, unmatched performance and reliable security with Cloudyea's managed AWS hosting service.
                     </p>
                 </div>
                 <!-- End Title -->

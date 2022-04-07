@@ -4,12 +4,12 @@
 
 <head>
     <!-- Title -->
-    <title>Fast & Secure Shared Hosting Services | Cloudington</title>
+    <title>Fast & Secure Shared Hosting Services | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Fast & Secure Shared Hosting Services | Cloudington">
-    <meta name="description" content="Cloudington offers shared hosting services that help businesses to host their website easily. Choose any of our affordable shared hosting plans to get started.">
+    <meta name="title" content="Fast & Secure Shared Hosting Services | Cloudyea">
+    <meta name="description" content="Cloudyea offers shared hosting services that help businesses to host their website easily. Choose any of our affordable shared hosting plans to get started.">
     <meta name="keywords" content="Shared Hosting Services">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -55,7 +55,7 @@
      
         <small class="btn btn-xs btn-soft-light btn-rounded text-uppercase font-weight-bold mb-2">Affordable Hosting</small>     
         <h1 class="font-weight-bold text-white">Secure & Reliable Hosting Service</h1>
-        <p>Cloudington offers fast and secure shared hosting services at affordable prices. Our hosting experts work round-the-clock to ensure that your website is live and running 24/7 without any interruptions. Choose the right shared hosting
+        <p>Cloudyea offers fast and secure shared hosting services at affordable prices. Our hosting experts work round-the-clock to ensure that your website is live and running 24/7 without any interruptions. Choose the right shared hosting
             plan to get your website online instantly.
         </p>
         <div class="mt-5 d-flex align-items-center" style="flex-wrap: wrap;" >
@@ -94,7 +94,7 @@
                         <h1 class="" style="
     margin-bottom: 2rem;"> <span class="text-dark font-weight-bold">Secure & Reliable Hosting Service
 </span></h1>
-                        <p>Cloudington offers fast and secure shared hosting services at affordable prices. Our hosting experts work round-the-clock to ensure that your website is live and running 24/7 without any interruptions. Choose the right shared hosting
+                        <p>Cloudyea offers fast and secure shared hosting services at affordable prices. Our hosting experts work round-the-clock to ensure that your website is live and running 24/7 without any interruptions. Choose the right shared hosting
                             plan to get your website online instantly.
                         </p>
                     </div>
@@ -349,7 +349,7 @@
                             <h1 class="text-white mb-3">
                                 Easily Launch your Website Online with our Shared Hosting Service
                             </h1>
-                            <p class="text-white-70">Using dedicated servers to host websites can be expensive and may not be affordable for everyone. That is why Cloudington offers reliable shared hosting services that help businesses to host their website easily and affordably.
+                            <p class="text-white-70">Using dedicated servers to host websites can be expensive and may not be affordable for everyone. That is why Cloudyea offers reliable shared hosting services that help businesses to host their website easily and affordably.
                                 Whether you want to run an eCommerce store or a business website, our shared hosting plan is the right choice for you. We also offer round-the-clock support and ensure that your site remains online 24/7.
                             </p>
                         </div>

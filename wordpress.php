@@ -4,11 +4,11 @@
 
 <head>
     <!-- Title -->
-    <title>Best Managed WordPress Hosting Services | Cloudington</title>
+    <title>Best Managed WordPress Hosting Services | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Best Managed WordPress Hosting Services | Cloudington">
+    <meta name="title" content="Best Managed WordPress Hosting Services | Cloudyea">
     <meta name="description" content="Get your site up and running instantly with our managed WordPress hosting services. We offer 24/7 dedicated support and help achieve optimal server performance.">
     <meta name="keywords" content="Managed WordPress Hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -264,7 +264,7 @@
                             <h1 class="text-white mb-3">
                                 Give your business a competitive edge with our managed WordPress hosting
                             </h1>
-                            <p class="text-white-70">Cloudington provides the best managed WordPress hosting service that delivers unmatched performance and guaranteed uptime. Whether you want to host an eCommerce website or an enterprise one, we can help you get your site up
+                            <p class="text-white-70">Cloudyea provides the best managed WordPress hosting service that delivers unmatched performance and guaranteed uptime. Whether you want to host an eCommerce website or an enterprise one, we can help you get your site up
                                 and running instantly. Our team of WordPress hosting experts will also be available 24/7 to assist you.
                             </p>
                         </div>
@@ -686,7 +686,7 @@
                     </div>
                     <div id="basicsCollapseOne" class="collapse" aria-labelledby="basicsHeadingOne" data-parent="#basicsAccordion">
                         <div class="card-body px-0">
-                            <p>WordPress hosting is a kind of hosting in which your websites are hosted on servers that are configured and fully optimized to host WordPress websites. A managed WordPress hosting service provider such as Cloudington will take
+                            <p>WordPress hosting is a kind of hosting in which your websites are hosted on servers that are configured and fully optimized to host WordPress websites. A managed WordPress hosting service provider such as Cloudyea will take
                                 care of all your server-related needs and ensures that your server is operating at maximum efficiency without interruptions or issues.
                             </p>
 
@@ -701,7 +701,7 @@
                 <div class="card shadow-none mb-3">
                     <div class="card-header card-collapse" id="basicsHeadingThree">
                         <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#basicsCollapseThree" aria-expanded="false" aria-controls="basicsCollapseThree">
-                            Can Cloudington help me migrate my website from another hosting provider to yours?
+                            Can Cloudyea help me migrate my website from another hosting provider to yours?
             <span class="card-btn-toggle">
               <span class="card-btn-toggle-default">+</span>
               <span class="card-btn-toggle-active">−</span>
@@ -710,7 +710,7 @@
                     </div>
                     <div id="basicsCollapseThree" class="collapse" aria-labelledby="basicsHeadingThree" data-parent="#basicsAccordion">
                         <div class="card-body px-0">
-                            <p>Yes. Our experts are available 24/7 to assist you with the migration of your WordPress website from the existing service provider to Cloudington. We will ensure a smooth and seamless transition of your website to Cloudington.
+                            <p>Yes. Our experts are available 24/7 to assist you with the migration of your WordPress website from the existing service provider to Cloudyea. We will ensure a smooth and seamless transition of your website to Cloudyea.
                             </p>
 
                         </div>

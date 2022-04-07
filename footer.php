@@ -6,7 +6,7 @@
                     <a class="w-100 mb-3 mb-lg-auto">
                         <img    class=" brand" src="./assets/svg/logos/cloog-new.svg" alt="Logo">
                     </a>
-                    <p class="small text-muted mb-0">© Cloudington. 2020.</p>
+                    <p class="small text-muted mb-0">© Cloudyea. 2020.</p>
                 </div>
             </div> -->
             <div class="col-6 col-md-3 col-lg-3  mb-5 mb-lg-0">
@@ -150,7 +150,7 @@
                 <!-- Social Networks -->
                 <ul class="list-inline mb-0">
                     <li class="list-inline-item">
-                        <a class="btn btn-xs btn-icon btn-soft-secondary" href="https://www.facebook.com/cloudyea" target="_blank">
+                        <a class="btn btn-xs btn-icon btn-soft-secondary" href="https://www.facebook.com/cloudington" target="_blank">
                             <i class="fab fa-facebook-f"></i>
                         </a>
                     </li>

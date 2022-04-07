@@ -4,13 +4,13 @@
 <head>
     <!-- Title -->
     <title>
-        Fully Managed Cloud for Startups - 24/7 Support | Cloudington
+        Fully Managed Cloud for Startups - 24/7 Support | Cloudyea
     </title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8" />
-    <meta name="title" content="Fully Managed Cloud for Startups - 24/7 Support | Cloudington" />
-    <meta name="description" content="Cloudington offers highly scalable and flexible managed cloud hosting for startups. Choose our managed cloud for startups at an affordable price." />
+    <meta name="title" content="Fully Managed Cloud for Startups - 24/7 Support | Cloudyea" />
+    <meta name="description" content="Cloudyea offers highly scalable and flexible managed cloud hosting for startups. Choose our managed cloud for startups at an affordable price." />
     <meta name="keywords" content="Managed cloud for startups" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
@@ -71,7 +71,7 @@
                         </div>
                         <h1 class="display-4 text-white mb-4">Managed Cloud for Startups </h1>
                         <p class="text-white mb-4">
-                            Cloudington very well understands that startups and small businesses have very limited budgets and resources. To support them in growing their business and to thrive in this startup culture, Cloudington offers highly scalable and flexible managed cloud
+                            Cloudyea very well understands that startups and small businesses have very limited budgets and resources. To support them in growing their business and to thrive in this startup culture, Cloudyea offers highly scalable and flexible managed cloud
                             hosting services for startups at an affordable price. Choosing our managed cloud for startups, lets you stay focused on growing your business while we will manage all your hosting-related needs.
                         </p>
                     </div>
@@ -932,7 +932,7 @@
                             </figure>
                             <h4>Guaranteed Uptime</h4>
                             <p class="font-size-1 text-body mb-0">
-                                Cloudington ensures to offer uninterrupted cloud hosting services. We guarantee a 99.9% uptime SLA.
+                                Cloudyea ensures to offer uninterrupted cloud hosting services. We guarantee a 99.9% uptime SLA.
 
                             </p>
                         </div>
@@ -976,7 +976,7 @@
                 <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
                     <h2 class="text-white">Fast and Secure Migration</h2>
                     <p class="text-white-70">
-                        Planning to migrate to Cloudington? Our team of migration experts will ensure a smooth and easy migration of your workloads from the existing hosting environment to ours. Migrate to Cloudinton to enjoy an uninterrupted hosting experience.
+                        Planning to migrate to Cloudyea? Our team of migration experts will ensure a smooth and easy migration of your workloads from the existing hosting environment to ours. Migrate to Cloudinton to enjoy an uninterrupted hosting experience.
 
                     </p>
                     <a class="btn btn-rounded btn-light transition-3d-hover mb-3">Chat with Us</a
@@ -1226,7 +1226,7 @@
                   bg-white
                   px-0
                 " href="javascript:;" role="button" data-toggle="collapse" data-target="#saasCollapseThree" aria-expanded="false" aria-controls="saasCollapseThree">
-                How good is the support service offered by Cloudington?
+                How good is the support service offered by Cloudyea?
                 <span class="card-btn-toggle">
                   <span class="card-btn-toggle-default">&plus;</span>
                   <span class="card-btn-toggle-active">&minus;</span>

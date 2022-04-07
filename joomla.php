@@ -3,11 +3,11 @@
 
 <head>
     <!-- Title -->
-    <title>Reliable Managed Joomla Cloud Hosting Services | Cloudington</title>
+    <title>Reliable Managed Joomla Cloud Hosting Services | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Reliable Managed Joomla Cloud Hosting Services | Cloudington">
+    <meta name="title" content="Reliable Managed Joomla Cloud Hosting Services | Cloudyea">
     <meta name="description"
         content="Get your Joomla servers deployed instantly by choosing our managed Joomla cloud hosting services. Host your site on fully optimized and secure cloud servers.">
     <meta name="keywords" content="Managed Joomla Cloud Hosting">
@@ -859,7 +859,7 @@
                                 </span>
                             </figure>
                             <h4>Guaranteed Uptime</h4>
-                            <p class="font-size-1 text-body mb-0 ">Cloudington ensures to keep your website live and
+                            <p class="font-size-1 text-body mb-0 ">Cloudyea ensures to keep your website live and
                                 running 99.9% of the time without any issues.
                             </p>
                         </div>
@@ -881,7 +881,7 @@
                             </figure>
                             <h4>Superior Performance
                             </h4>
-                            <p class="font-size-1 text-body mb-0 ">Cloudington offers a Joomla cloud hosting environment
+                            <p class="font-size-1 text-body mb-0 ">Cloudyea offers a Joomla cloud hosting environment
                                 that is completely optimized to offer superior performance.
                             </p>
                         </div>

@@ -3,11 +3,11 @@
 
 <head>
     <!-- Title -->
-    <title>Fast and Secure Magento Cloud Hosting Services | Cloudington</title>
+    <title>Fast and Secure Magento Cloud Hosting Services | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Fast and Secure Magento Cloud Hosting Services | Cloudington">
+    <meta name="title" content="Fast and Secure Magento Cloud Hosting Services | Cloudyea">
     <meta name="description" content="Host your eCommerce website online with our Magento cloud hosting services to get superior store performance and guaranteed uptime. Get 24/7 dedicated hosting support.">
     <meta name="keywords" content="Magento Cloud Hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -59,7 +59,7 @@
                         </div>
                         <h1 class="display-4 text-white mb-4">Fully Managed Magento Cloud Hosting Service
                         </h1>
-                        <p class=" text-white mb-4">Cloudington offers reliable Magento cloud hosting services to businesses of all scales. With our managed Magento cloud hosting services, businesses can get the best out of a fully optimized environment that is designed to offer
+                        <p class=" text-white mb-4">Cloudyea offers reliable Magento cloud hosting services to businesses of all scales. With our managed Magento cloud hosting services, businesses can get the best out of a fully optimized environment that is designed to offer
                             superior store performance, unmatched security, and guaranteed uptime. Host your eCommerce website with us and enjoy uninterrupted services at an affordable price.</p>
                     </div>
                     <a class="btn btn-light btn-wide transition-3d-hover">Start Now</a>
@@ -763,7 +763,7 @@
                                 </span>
                             </figure>
                             <h4>Dedicated Support </h4>
-                            <p class="font-size-1 text-body mb-0 ">Cloudington has an experienced team of cloud engineers who are available 24/7 to assist you in case of any issues.</p>
+                            <p class="font-size-1 text-body mb-0 ">Cloudyea has an experienced team of cloud engineers who are available 24/7 to assist you in case of any issues.</p>
                         </div>
                         <div class="card-footer border-0 pt-0 ">
 
@@ -840,7 +840,7 @@
                 <!-- Title -->
                 <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9 ">
                     <h2 class="text-white ">Looking for an optimized hosting environment for Magento cloud? </h2>
-                    <p class="text-white-70 ">Looking for an ideal managed Magento cloud hosting service provider to securely host your eCommerce website? Then, Cloudington is the right choice. Our Magento cloud servers are designed and completely optimized to host Magento websites
+                    <p class="text-white-70 ">Looking for an ideal managed Magento cloud hosting service provider to securely host your eCommerce website? Then, Cloudyea is the right choice. Our Magento cloud servers are designed and completely optimized to host Magento websites
                         efficiently without any issues.
                     </p>
                     <a class="btn btn-rounded btn-light transition-3d-hover mb-3">Chat with Us</a>

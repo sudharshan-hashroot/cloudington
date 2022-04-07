@@ -4,11 +4,11 @@
 
 <head>
     <!-- Title -->
-    <title>Managed Linode Hosting - Linode Web Hosting | Cloudington</title>
+    <title>Managed Linode Hosting - Linode Web Hosting | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Managed Linode Hosting - Linode Web Hosting | Cloudington">
+    <meta name="title" content="Managed Linode Hosting - Linode Web Hosting | Cloudyea">
     <meta name="description" content="From deploying Linode servers to effectively managing them, we make your Linode hosting experience simple and powerful. Get the best managed Linode hosting service.">
     <meta name="keywords" content="Managed Linode Hosting">
 
@@ -1022,7 +1022,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./assets/svg/maps/flag/usa.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">West Coast USA</a>
+                                    West Coast USA</a>
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Fremont</span>
 
@@ -1045,7 +1045,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./assets/svg/maps/flag/usa.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">East Coast USA</a>
+                                    East Coast USA</a>
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Atlanta , Newark</span>
 
@@ -1068,7 +1068,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./assets/svg/maps/flag/usa.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Mid West USA</a>
+                                    Mid West USA
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Dallas</span>
 
@@ -1094,7 +1094,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./assets/svg/maps/flag/canada.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Canada</a>
+                                    Canada
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Toronto</span>
 
@@ -1117,7 +1117,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./assets/svg/maps/flag/uk.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">UK</a>
+                                    UK
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">London</span>
 
@@ -1140,7 +1140,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./assets/svg/maps/flag/germany.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Germany</a>
+                                    Germany
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Frankfrut</span>
 
@@ -1163,7 +1163,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./assets/svg/maps/flag/india.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">India</a>
+                                    India
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Mumbai</span>
 
@@ -1188,7 +1188,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./assets/svg/maps/flag/japan.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Japan</a>
+                                    Japan
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Tokyo</span>
 
@@ -1211,7 +1211,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./assets/svg/maps/flag/singapore.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Singapore</a>
+                                    Singapore
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Singapore</span>
 
@@ -1235,7 +1235,7 @@
                                     <img class=" avatar-img rounded-circle shadow-soft" src="./assets/svg/maps/flag/australia.svg" alt="Logo">
                                 </figure>
                                 <h3 class="mb-1">
-                                    <a class="text-dark" href="job-overview.html">Australia</a>
+                                    Australia
                                 </h3>
                                 <span class="d-block font-size-1 text-body mb-1">Sydney</span>
 
@@ -1419,7 +1419,7 @@
                 <!-- Title -->
                 <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9 ">
                     <h2 class="text-white ">Why Choose Our Managed Linode Hosting Service? </h2>
-                    <p class="text-white-70 ">Get the highest level of performance and guaranteed uptime with Cloudington's Linode web hosting service. </p>
+                    <p class="text-white-70 ">Get the highest level of performance and guaranteed uptime with Cloudyea's Linode web hosting service. </p>
                 </div>
                 <!-- End Title -->
 
@@ -1635,7 +1635,7 @@
                 <div class="card shadow-none mb-3">
                     <div class="card-header card-collapse" id="basicsHeadingFour">
                         <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#basicsCollapseFour" aria-expanded="false" aria-controls="basicsCollapseFour">
-                            Can Cloudington help us migrate our website from the existing cloud service provider to Linode?
+                            Can Cloudyea help us migrate our website from the existing cloud service provider to Linode?
 
   
             <span class="card-btn-toggle">
@@ -1657,7 +1657,7 @@
                 <div class="card shadow-none mb-3">
                     <div class="card-header card-collapse" id="basicsHeadingFive">
                         <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#basicsCollapseFive" aria-expanded="false" aria-controls="basicsCollapseFive">
-                            Why do I need Cloudington's managed Linode hosting service, if I can buy Linode cloud servers by myself?
+                            Why do I need Cloudyea's managed Linode hosting service, if I can buy Linode cloud servers by myself?
 
   
             <span class="card-btn-toggle">

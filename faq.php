@@ -279,7 +279,7 @@
                                 </div>
                                 <div id="accountCollapseOne" class="collapse" aria-labelledby="accountHeadingOne" data-parent="#accountAccordion">
                                     <div class="card-body px-0">
-                                        <p>Yes, We will help you migrate websites of all sizes from the existing service providers to Cloudington.
+                                        <p>Yes, We will help you migrate websites of all sizes from the existing service providers to Cloudyea.
                                         </p>
                                     </div>
                                 </div>
@@ -290,7 +290,7 @@
                             <div class="card shadow-none mb-3">
                                 <div class="card-header card-collapse" id="accountHeadingTwo">
                                     <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#accountCollapseTwo" aria-expanded="false" aria-controls="accountCollapseTwo">
-                                      How secure is my Drupal website if I host with Cloudington?
+                                      How secure is my Drupal website if I host with Cloudyea?
 
 
                     <span class="card-btn-toggle">
@@ -312,7 +312,7 @@
                             <div class="card shadow-none mb-3">
                                 <div class="card-header card-collapse" id="accountHeadingThree">
                                     <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#accountCollapseThree" aria-expanded="false" aria-controls="accountCollapseThree">
-                                      Why do I need Cloudington's managed Drupal cloud services if I can buy cloud servers by myself?
+                                      Why do I need Cloudyea's managed Drupal cloud services if I can buy cloud servers by myself?
 
 
                     <span class="card-btn-toggle">
@@ -516,7 +516,7 @@
                             <div class="card shadow-none mb-3">
                                 <div class="card-header card-collapse" id="wordpressHeadingTwo">
                                     <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#wordpressCollapseTwo" aria-expanded="false" aria-controls="wordpressCollapseTwo">
-                                      We have a huge WordPress website. Will you be able to handle it, if we migrate our website to Cloudington?
+                                      We have a huge WordPress website. Will you be able to handle it, if we migrate our website to Cloudyea?
 
 
                 <span class="card-btn-toggle">
@@ -613,7 +613,7 @@
                             <div class="card shadow-none mb-3">
                                 <div class="card-header card-collapse" id="businessHeadingTwo">
                                     <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#businessCollapseTwo" aria-expanded="false" aria-controls="businessCollapseTwo">
-                                      Can you help us migrate our business email accounts from the existing hosting provider to Cloudington?
+                                      Can you help us migrate our business email accounts from the existing hosting provider to Cloudyea?
 
 
 
@@ -625,7 +625,7 @@
                                 </div>
                                 <div id="businessCollapseTwo" class="collapse" aria-labelledby="businessHeadingTwo" data-parent="#businessAccordion">
                                     <div class="card-body px-0">
-                                        <p>Yes! Our team of experts is always ready to help you migrate your email accounts, calendar data, and much more from the existing service provider to Cloudington.
+                                        <p>Yes! Our team of experts is always ready to help you migrate your email accounts, calendar data, and much more from the existing service provider to Cloudyea.
                                         </p>
                                     </div>
                                 </div>
@@ -691,7 +691,7 @@
                             <div class="card shadow-none mb-3">
                                 <div class="card-header card-collapse" id="saasHeadingTwo">
                                     <a class="btn btn-link btn-block d-flex justify-content-between card-btn collapsed bg-white px-0" href="javascript:;" role="button" data-toggle="collapse" data-target="#saasCollapseTwo" aria-expanded="false" aria-controls="saasCollapseTwo">
-                                      How secure will our SaaS application be with Cloudington?                 
+                                      How secure will our SaaS application be with Cloudyea?                 
                   <span class="card-btn-toggle">
                   <span class="card-btn-toggle-default">&plus;</span>
                   <span class="card-btn-toggle-active">&minus;</span>

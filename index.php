@@ -6,10 +6,11 @@
     <title>Managed Cloud Hosting Services - Web Hosting | Cloudyea</title>
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Managed Cloud Hosting Services - Web Hosting |Cloudington">
+    <meta name="title" content="Managed Cloud Hosting Services - Web Hosting |Cloudyea">
     <meta name="description" content="Get fully managed cloud hosting services at an affordable price from Cloudyea. Highly secure cloud web hosting, WordPress hosting backed by 24/7 dedicated support.">
     <meta name="keywords" content="Managed cloud hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="google-site-verification" content="aksfqqbD5wVrU_zzcNuKAzbMv2lNlBWUHGTlzA-kg24" /> 
     <link rel="canonical" href="https://www.cloudyea.com" />
 
     <!-- Favicon -->
@@ -502,7 +503,7 @@
                 <!-- Title -->
                 <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
                     <h2 class="h1">Specialized Cloud </h2>
-                    <!-- <p class="lead">Install Cloudington on your own infrastructure.</p> -->
+                    <!-- <p class="lead">Install Cloudyea on your own infrastructure.</p> -->
                 </div>
                 <!-- End Title -->
 

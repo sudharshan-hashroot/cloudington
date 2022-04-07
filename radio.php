@@ -3,12 +3,12 @@
 
 <head>
     <!-- Title -->
-    <title>Radio Stream Hosting Services - Radio Hosting | Cloudington</title>
+    <title>Radio Stream Hosting Services - Radio Hosting | Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
-    <meta name="title" content="Radio Stream Hosting Services - Radio Hosting | Cloudington">
-    <meta name="description" content="Planning to start your own internet radio station website? Cloudington's offers highly secure radio stream hosting services with 99% network uptime and low latency.">
+    <meta name="title" content="Radio Stream Hosting Services - Radio Hosting | Cloudyea">
+    <meta name="description" content="Planning to start your own internet radio station website? Cloudyea's offers highly secure radio stream hosting services with 99% network uptime and low latency.">
     <meta name="keywords" content="Radio Stream Hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -59,7 +59,7 @@
                         </div>
                         <h1 class="display-4 text-white mb-4">Radio Stream Hosting Service
                         </h1>
-                        <p class=" text-white mb-4">Planning to start your own internet radio station website? Cloudington's affordable and highly secure radio hosting services make it easy for you to create the best quality audio streams and broadcast them to millions of listeners
+                        <p class=" text-white mb-4">Planning to start your own internet radio station website? Cloudyea's affordable and highly secure radio hosting services make it easy for you to create the best quality audio streams and broadcast them to millions of listeners
                             all over the world. Low latency, 99.9% network uptime, cPanel powered are some of the benefits you get to enjoy by choosing our radio hosting services.
                         </p>
                     </div>
@@ -899,7 +899,7 @@
                 <!-- Title -->
                 <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9 ">
                     <h2 class="text-white ">Cost-Effective Radio Stream Hosting Service </h2>
-                    <p class="text-white-70 ">Get secure, reliable, and scalable radio stream hosting services at an affordable price from Cloudington. Our hosting experts are highly talented and will assist you to successfully design a custom and fully optimized radio stream
+                    <p class="text-white-70 ">Get secure, reliable, and scalable radio stream hosting services at an affordable price from Cloudyea. Our hosting experts are highly talented and will assist you to successfully design a custom and fully optimized radio stream
                         hosting environment that suits your requirements.
                     </p>
                     <a class="btn btn-rounded btn-light transition-3d-hover mb-3">Chat with Us</a>

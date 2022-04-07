@@ -3,7 +3,7 @@
 
 <head>
     <!-- Title -->
-    <title>Cloudington</title>
+    <title>Cloudyea</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
@@ -65,7 +65,7 @@
                         <h1 class="" style="
     margin-bottom: 2rem;
 "> <span class="text-dark font-weight-bold">WordPress Hosting made Simple!</span></h1>
-                        <!-- <p>Cloudington provides the best managed WordPress hosting service that delivers unmatched performance and guaranteed uptime. Whether you want to host an eCommerce website or an enterprise one, we can help you get your site up and
+                        <!-- <p>Cloudyea provides the best managed WordPress hosting service that delivers unmatched performance and guaranteed uptime. Whether you want to host an eCommerce website or an enterprise one, we can help you get your site up and
                             running instantly. Our team of WordPress hosting experts will also be available 24/7 to assist you.</p> -->
                     </div>
                     <a class="btn btn-soft-primary transition-3d-hover"  >Check Our Plan  </a>
@@ -432,7 +432,7 @@
                                 </span>
                             </figure>
                             <h4>Managed Website Migration</h4>
-                            <p class="font-size-1 text-body mb-0 ">Our cloud experts will assist you in planning and migrating the website from the existing environment to the managed AWS cloud servers. Partner with Cloudington to enjoy a hassle-free and seamless transition to the cloud.</p>
+                            <p class="font-size-1 text-body mb-0 ">Our cloud experts will assist you in planning and migrating the website from the existing environment to the managed AWS cloud servers. Partner with Cloudyea to enjoy a hassle-free and seamless transition to the cloud.</p>
                         </div>
                         <div class="card-footer border-0 pt-0 ">
 
@@ -517,7 +517,7 @@
                         <a class="w-100 mb-3 mb-lg-auto"   aria-label="Front">
                             <img    class=" brand" src="./assets/svg/logos/cloog-new.svg" alt="Logo">
                         </a>
-                        <p class="small text-muted mb-0">© Cloudington. 2020.</p>
+                        <p class="small text-muted mb-0">© Cloudyea. 2020.</p>
                     </div>
                 </div>
 
@@ -583,7 +583,7 @@
                                     <div class="card">
                                         <!-- Body -->
                                         <div class="card-body">
-                                            <h5>Cloudington available in</h5>
+                                            <h5>Cloudyea available in</h5>
 
                                             <div class="row">
                                                 <div class="col-6">
